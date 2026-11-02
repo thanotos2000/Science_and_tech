@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}用于光谱展宽的MPC}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}MPC概述}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Herriott 型 MPC 关键参数}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}MPC 光斑分布与再入条件}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}MPC模式匹配}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}MPC光谱展宽}{3}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}MPC设计}{5}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}MPC 的数值模拟}{6}{subsubsection.2.2.5}%
+\contentsline {section}{Appendices}{7}{section*.2}%
+\contentsline {section}{\numberline {A}高斯光束q参数的变化规律}{7}{appendix.A}%
+\contentsline {section}{参考文献}{9}{section*.3}%

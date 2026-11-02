@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}光谱展宽}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}基于光克尔效应的光谱展宽}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}气体中光电离引起光谱展宽}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}非线性介质中传播产生光谱展宽}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}固体介质中自由传播}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}多板连续生成 Multiple-plate continuum generation}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}多通腔 （MPC）}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}成丝（Filament）}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}波导中的光谱展宽}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}波导中传播的能量和功率范围}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}光子晶体光纤}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}毛细管（Capillaries）或中空芯光纤（Hollow-core fibers）}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}拉伸柔性中空芯纤维}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}进一步扩展的技术：压力梯度、电离、平面波导、多路复用和分子气体}{12}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}压力梯度气体光谱展宽}{12}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}电离实现光谱展宽}{14}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}平面波导（PWG）光谱展宽}{14}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}多路复用方法/分脉冲非线性压缩（DPNLC）}{15}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}分子气体}{16}{subsubsection.4.5.5}%
+\contentsline {section}{\numberline {5}自压缩技术}{16}{section.5}%
+\contentsline {section}{参考文献}{20}{section*.2}%

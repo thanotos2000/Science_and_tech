@@ -1,0 +1,107 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Kiselev et~al.(2010)Kiselev, Woeste, and
+  Wolf]{kiselevFilamentinducedLaserMachining2010}
+KISELEV D, WOESTE L, WOLF J~P.
+\newblock Filament-induced laser machining ({{FILM}})\allowbreak[J].
+\newblock Applied Physics B, 2010, 100: 515-520.
+
+\bibitem[Gattass et~al.(2008)Gattass and
+  Mazur]{gattassFemtosecondLaserMicromachining2008}
+GATTASS R~R, MAZUR E.
+\newblock Femtosecond laser micromachining in transparent
+  materials\allowbreak[J].
+\newblock Nature photonics, 2008, 2\allowbreak (4): 219-225.
+
+\bibitem[Jocher et~al.(2012)Jocher, Eidam, H{\"a}drich, Limpert, and
+  T{\"u}nnermann]{jocherSub25Fs2012}
+JOCHER C, EIDAM T, H{\"A}DRICH S, et~al.
+\newblock Sub 25 fs pulses from solid-core nonlinear compression stage at 250
+  {{W}} of average power\allowbreak[J/OL].
+\newblock Optics Letters, 2012, 37\allowbreak (21): 4407.
+\newblock DOI: \doi{10.1364/OL.37.004407}.
+
+\bibitem[H{\"a}drich et~al.(2016)H{\"a}drich, Kienel, M{\"u}ller, Klenke,
+  Rothhardt, Klas, Gottschall, Eidam, Drozdy, and
+  Jojart]{hadrich200AveragePower2016}
+H{\"A}DRICH S, KIENEL M, M{\"U}LLER M, et~al.
+\newblock 200 {{W}} average power energetic few-cycle fiber
+  laser\allowbreak[C]//\allowbreak
+High {{Intensity Lasers}} and {{High Field Phenomena}}.
+\newblock Optica Publishing Group, 2016: JT3A-1.
+
+\bibitem[Emaury et~al.(2014)Emaury, Saraceno, Debord, Ghosh, Diebold,
+  G{\`e}r{\^o}me, S{\"u}dmeyer, Benabid, and
+  Keller]{emauryEfficientSpectralBroadening2014}
+EMAURY F, SARACENO C~J, DEBORD B, et~al.
+\newblock Efficient spectral broadening in the 100-{{W}} average power regime
+  using gas-filled kagome {{HC-PCF}} and pulse compression\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (24): 6843.
+\newblock DOI: \doi{10.1364/OL.39.006843}.
+
+\bibitem[Guichard et~al.(2015)Guichard, Giree, Zaouter, Hanna, Machinet,
+  Debord, G{\'e}r{\^o}me, Dupriez, Druon, H{\"o}nninger, Mottay, Benabid, and
+  Georges]{guichardNonlinearCompressionHigh2015}
+GUICHARD F, GIREE A, ZAOUTER Y, et~al.
+\newblock Nonlinear compression of high energy fiber amplifier pulses in
+  air-filled hypocycloid-core {{Kagome}} fiber\allowbreak[J/OL].
+\newblock Optics Express, 2015, 23\allowbreak (6): 7416.
+\newblock DOI: \doi{10.1364/OE.23.007416}.
+
+\bibitem[H{\"a}drich et~al.(2015)H{\"a}drich, Krebs, Hoffmann, Klenke,
+  Rothhardt, Limpert, and T{\"u}nnermann]{hadrichExploringNewAvenues2015}
+H{\"A}DRICH S, KREBS M, HOFFMANN A, et~al.
+\newblock Exploring new avenues in high repetition rate table-top coherent
+  extreme ultraviolet sources\allowbreak[J/OL].
+\newblock Light: Science \& Applications, 2015, 4\allowbreak (8): e320-e320.
+\newblock DOI: \doi{10.1038/lsa.2015.93}.
+
+\bibitem[Guichard et~al.(2013)Guichard, Zaouter, Hanna, Morin, H{\"o}nninger,
+  Mottay, Druon, and Georges]{guichardEnergyScalingNonlinear2013}
+GUICHARD F, ZAOUTER Y, HANNA M, et~al.
+\newblock Energy scaling of a nonlinear compression setup using passive
+  coherent combining\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (21): 4437.
+\newblock DOI: \doi{10.1364/OL.38.004437}.
+
+\bibitem[Klenke et~al.(2014)Klenke, H{\"a}drich, Kienel, Eidam, Limpert, and
+  T{\"u}nnermann]{klenkeCoherentCombinationSpectrally2014}
+KLENKE A, H{\"A}DRICH S, KIENEL M, et~al.
+\newblock Coherent combination of spectrally broadened femtosecond pulses for
+  nonlinear compression\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (12): 3520.
+\newblock DOI: \doi{10.1364/OL.39.003520}.
+
+\bibitem[Rolland et~al.()Rolland and
+  Corkum]{rollandCompressionHighpowerOptical}
+ROLLAND C, CORKUM P~B.
+\newblock Compression of high-power optical pulses\allowbreak[Z].
+
+\bibitem[Seidel et~al.(2016)Seidel, Arisholm, Brons, Pervak, and
+  Pronin]{seidelAllSolidstateSpectral2016}
+SEIDEL M, ARISHOLM G, BRONS J, et~al.
+\newblock All solid-state spectral broadening: {{An}} average and peak power
+  scalable method for compression of ultrashort pulses\allowbreak[J].
+\newblock Optics express, 2016, 24\allowbreak (9): 9412-9428.
+
+\bibitem[Russbueldt et~al.(2015)Russbueldt, Hoffmann, Hofer, Lohring, Luttmann,
+  Meissner, Weitenberg, Traub, Sartorius, Esser, Wester, Loosen, and
+  Poprawe]{russbueldtInnoslabAmplifiers2015}
+RUSSBUELDT P, HOFFMANN D, HOFER M, et~al.
+\newblock Innoslab {{Amplifiers}}\allowbreak[J/OL].
+\newblock IEEE Journal of Selected Topics in Quantum Electronics, 2015,
+  21\allowbreak (1): 447-463.
+\newblock DOI: \doi{10.1109/JSTQE.2014.2333234}.
+
+\end{thebibliography}

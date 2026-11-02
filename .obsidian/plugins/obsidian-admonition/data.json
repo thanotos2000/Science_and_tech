@@ -1,0 +1,93 @@
+{
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "rgb(250, 173, 20)",
+      "icon": {
+        "name": "bookmark",
+        "type": "fas"
+      },
+      "command": false,
+      "title": "Note",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "def": {
+      "type": "def",
+      "color": "rgb(207, 19, 34)",
+      "icon": {
+        "name": "book",
+        "type": "fas"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "gpt": {
+      "type": "gpt",
+      "color": "rgb(0, 0, 0)",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAihJREFUSEuVlk1OFVEQhb+XGBi4BH40rsEJBBfADFRwCyaOEAaEOSEmgE4IK3AiRqYugOhA16BRdAeOTAhyXu7pnHdzux/epPPS1VV1qupU3Xojpp8N4F2ofQZeA2fTTWE0oFQ7bqkO2Y/1+xTWgPPicQH4Fd7ngG/ATIXojDZT3gfwCZBjPXmWgKfAS0ClSuB5QN+PgW0b1QB3gT/loyLKaK4D6RFw0aiZdTrbBBCRqrvPcolS0b4AHpTo3hd5H30T2RtgD9i/iX4HOAIUib8JWKlnuRTIVpELSJmag3XgA3Af+CEn7pZUqgHsRL+pr3e3sDJzBVyqUQJkt7QA5EyZiMy6A7OllYmBxgAdWhS1BpCBDDVgOirPCvAk+BC45J1zR3EbgCyR48imqLtxokQiVZ2SSlK4B/yMGk8MUJGrXMpKYGqUg4L+HDgV+cmB0ntTFHaLspxKroFqATizRXVMI8hjR+2U7gBXFRd6rYcuu8fAyZu+j33WZbEzpa2rwJ3zFvhakWzibwWQI+4uyLnoIirlMniSnxmIm0tzkMY5vQnkkiSoB6yVQTeMdqix/g6sAh9LaXJ4WktGEUpeA+gmPQTUKK+SAxno0SXXd/K61k44KReg5Lrkckae1SQPDY50HwJfwknfTTx7MxN/rVdPoIduaJm0ruve7FsbzeTlblBAiko74Xdk4W6R6HGs2U5l6tIumrnNWvzULf3fADKol4xnYPDvyz+JFJCjz5LYigAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": false,
+      "title": "GPT: ",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "theorem": {
+      "type": "theorem",
+      "color": "rgb(0, 58, 194)",
+      "icon": {
+        "name": "book",
+        "type": "fas"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "example": {
+      "type": "example",
+      "color": "rgb(19, 112, 0)",
+      "icon": {
+        "name": "binoculars",
+        "type": "fas"
+      },
+      "command": false,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "12.0.8",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "icons": [
+    "octicons",
+    "rpg",
+    "fas"
+  ],
+  "rpgDownloadedOnce": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.e8c44b",
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "useFontAwesome": false
+}

@@ -1,0 +1,207 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Usi({[2024]})]{UsingPassivelyStable}
+Using a passively stable attosecond beamline for... - google
+  scholar\allowbreak[Z].
+\newblock [2024].
+
+\bibitem[Calegari et~al.(2016)Calegari, Sansone, Stagira, Vozzi, and
+  Nisoli]{calegariAdvancesAttosecondScience2016}
+CALEGARI F, SANSONE G, STAGIRA S, et~al.
+\newblock Advances in attosecond science\allowbreak[J/OL].
+\newblock Journal of Physics B: Atomic, Molecular and Optical Physics, 2016,
+  49\allowbreak (6): 62001.
+\newblock DOI: \doi{10.1088/0953-4075/49/6/062001}.
+
+\bibitem[Ciappina et~al.(2017)Ciappina, {P{\'e}rez-Hern{\'a}ndez}, Landsman,
+  Okell, Zherebtsov, F{\"o}rg, Sch{\"o}tz, Seiffert, Fennel, Shaaran,
+  Zimmermann, Chac{\'o}n, Guichard, Za{\"i}r, Tisch, Marangos, Witting, Braun,
+  Maier, Roso, Kr{\"u}ger, Hommelhoff, Kling, Krausz, and
+  Lewenstein]{ciappinaAttosecondPhysicsNanoscale2017}
+CIAPPINA M~F, {P{\'e}rez-Hern{\'a}ndez} J~A, LANDSMAN A~S, et~al.
+\newblock Attosecond physics at the nanoscale\allowbreak[J/OL].
+\newblock Reports on Progress in Physics, 2017, 80\allowbreak (5): 54401.
+\newblock DOI: \doi{10.1088/1361-6633/aa574e}.
+
+\bibitem[Strozzi et~al.(2003)Strozzi, Ram, Bers, Shoucri, and
+  Poster]{strozziKineticSimulationLaserplasma2003}
+STROZZI D~J, RAM A~K, BERS A, et~al.
+\newblock Kinetic simulation of laser-plasma
+  interactions\allowbreak[C]//\allowbreak
+{{APS Division}} of {{Plasma Physics Meeting Abstracts}}: volume~45.
+\newblock 2003: BP1-71.
+
+\bibitem[Mourou et~al.(2006)Mourou, Tajima, and
+  Bulanov]{mourouOpticsRelativisticRegime2006}
+MOUROU G~A, TAJIMA T, BULANOV S~V.
+\newblock Optics in the relativistic regime\allowbreak[J/OL].
+\newblock Reviews of Modern Physics, 2006, 78\allowbreak (2): 309-371.
+\newblock DOI: \doi{10.1103/RevModPhys.78.309}.
+
+\bibitem[Di~Piazza et~al.(2012)Di~Piazza, M{\"u}ller, Hatsagortsyan, and
+  Keitel]{dipiazzaExtremelyHighintensityLaser2012}
+DI~PIAZZA A, M{\"U}LLER C, HATSAGORTSYAN K~Z, et~al.
+\newblock Extremely high-intensity laser interactions with fundamental quantum
+  systems\allowbreak[J/OL].
+\newblock Reviews of Modern Physics, 2012, 84\allowbreak (3): 1177-1228.
+\newblock DOI: \doi{10.1103/RevModPhys.84.1177}.
+
+\bibitem[Malka(2012)]{malkaLaserPlasmaAccelerators2012}
+MALKA V.
+\newblock Laser plasma accelerators\allowbreak[J].
+\newblock Physics of Plasmas, 2012, 19\allowbreak (5).
+
+\bibitem[Thaury et~al.(2010)Thaury and
+  Qu{\'e}r{\'e}]{thauryHighorderHarmonicAttosecond2010}
+THAURY C, QU{\'E}R{\'E} F.
+\newblock High-order harmonic and attosecond pulse generation on plasma
+  mirrors: {{Basic}} mechanisms\allowbreak[J/OL].
+\newblock Journal of Physics B: Atomic, Molecular and Optical Physics, 2010,
+  43\allowbreak (21): 213001.
+\newblock DOI: \doi{10.1088/0953-4075/43/21/213001}.
+
+\bibitem[Gu{\'e}not et~al.(2017)Gu{\'e}not, Gustas, Vernier, Beaurepaire,
+  B{\"o}hle, Bocoum, Lozano, Jullien, {Lopez-Martens}, Lifschitz, and
+  Faure]{guenotRelativisticElectronBeams2017}
+GU{\'E}NOT D, GUSTAS D, VERNIER A, et~al.
+\newblock Relativistic electron beams driven by {{kHz}} single-cycle light
+  pulses\allowbreak[J/OL].
+\newblock Nature Photonics, 2017, 11\allowbreak (5): 293-296.
+\newblock DOI: \doi{10.1038/nphoton.2017.46}.
+
+\bibitem[Jahn et~al.(2019)Jahn, Leshchenko, Tzallas, Kessel, Kr{\"u}ger,
+  M{\"u}nzer, Trushin, Tsakiris, Kahaly, Kormin, Veisz, Pervak, Krausz, Major,
+  and Karsch]{jahnIntenseIsolatedAttosecond2019}
+JAHN O, LESHCHENKO V~E, TZALLAS P, et~al.
+\newblock Towards intense isolated attosecond pulses from relativistic surface
+  high harmonics\allowbreak[J/OL].
+\newblock Optica, 2019, 6\allowbreak (3): 280.
+\newblock DOI: \doi{10.1364/OPTICA.6.000280}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Qiao, Xu, Chang, Lu, Zhou, Zhang, Zhu, Zepf,
+  and He]{zhangIntenseAttosecondPulses2017}
+ZHANG Y, QIAO B, XU X, et~al.
+\newblock Intense attosecond pulses from laser-irradiated near-critical-density
+  plasmas\allowbreak[J/OL].
+\newblock Optics Express, 2017, 25\allowbreak (23): 29058.
+\newblock DOI: \doi{10.1364/OE.25.029058}.
+
+\bibitem[Gruson et~al.(2017)Gruson, Ernotte, Lassonde, Laram{\'e}e, Bionta,
+  Chaker, Di~Mauro, Corkum, Ibrahim, Schmidt, and
+  Legar{\'e}]{grusonTWTwocycleIR2017}
+GRUSON V, ERNOTTE G, LASSONDE P, et~al.
+\newblock 2.5 {{TW}}, two-cycle {{IR}} laser pulses via frequency domain
+  optical parametric amplification\allowbreak[J/OL].
+\newblock Optics Express, 2017, 25\allowbreak (22): 27706.
+\newblock DOI: \doi{10.1364/OE.25.027706}.
+
+\bibitem[Rivas et~al.(2017)Rivas, Borot, Cardenas, Marcus, Gu, Herrmann, Xu,
+  Tan, Kormin, Ma, Dallari, Tsakiris, F{\"o}ldes, Chou, Weidman, Bergues,
+  Wittmann, Schr{\"o}der, Tzallas, Charalambidis, Razskazovskaya, Pervak,
+  Krausz, and Veisz]{rivasNextGenerationDriver2017}
+RIVAS D~E, BOROT A, CARDENAS D~E, et~al.
+\newblock Next generation driver for attosecond and laser-plasma
+  physics\allowbreak[J/OL].
+\newblock Scientific Reports, 2017, 7\allowbreak (1): 5224.
+\newblock DOI: \doi{10.1038/s41598-017-05082-w}.
+
+\bibitem[Kessel et~al.(2018)Kessel, Leshchenko, Jahn, Kr{\"u}ger, M{\"u}nzer,
+  Schwarz, Pervak, Trubetskov, Trushin, Krausz, Major, and
+  Karsch]{kesselRelativisticFewcyclePulses2018}
+KESSEL A, LESHCHENKO V~E, JAHN O, et~al.
+\newblock Relativistic few-cycle pulses with high contrast from
+  picosecond-pumped {{OPCPA}}\allowbreak[J/OL].
+\newblock Optica, 2018, 5\allowbreak (4): 434.
+\newblock DOI: \doi{10.1364/OPTICA.5.000434}.
+
+\bibitem[Kormin et~al.(2018)Kormin, Borot, Ma, Dallari, Bergues, Aladi,
+  F{\"o}ldes, and Veisz]{korminSpectralInterferometryWaveformdependent2018}
+KORMIN D, BOROT A, MA G, et~al.
+\newblock Spectral interferometry with waveform-dependent relativistic
+  high-order harmonics from plasma surfaces\allowbreak[J/OL].
+\newblock Nature Communications, 2018, 9\allowbreak (1): 4992.
+\newblock DOI: \doi{10.1038/s41467-018-07421-5}.
+
+\bibitem[Schmid et~al.(2009)Schmid, Veisz, Tavella, Benavides, Tautz, Herrmann,
+  Buck, Hidding, Marcinkevicius, Schramm, Geissler, {Meyer-ter-Vehn}, Habs, and
+  Krausz]{schmidFewcycleLaserdrivenElectron2009}
+SCHMID K, VEISZ L, TAVELLA F, et~al.
+\newblock Few-cycle laser-driven electron acceleration\allowbreak[J/OL].
+\newblock Physical Review Letters, 2009, 102\allowbreak (12): 124801.
+\newblock DOI: \doi{10.1103/PhysRevLett.102.124801}.
+
+\bibitem[H{\"a}drich et~al.(2016)H{\"a}drich, Kienel, M{\"u}ller, Klenke,
+  Rothhardt, Klas, Gottschall, Eidam, Drozdy, J{\'o}j{\'a}rt, V{\'a}rallyay,
+  Cormier, Osvay, T{\"u}nnermann, and
+  Limpert]{hadrichEnergeticSub2cycleLaser2016}
+H{\"A}DRICH S, KIENEL M, M{\"U}LLER M, et~al.
+\newblock Energetic sub-2-cycle laser with 216 {{W}} average
+  power\allowbreak[J/OL].
+\newblock Optics Letters, 2016, 41\allowbreak (18): 4332.
+\newblock DOI: \doi{10.1364/OL.41.004332}.
+
+\bibitem[Nisoli et~al.(1996)Nisoli, De~Silvestri, and
+  Svelto]{nisoliGenerationHighEnergy1996}
+NISOLI M, DE~SILVESTRI S, SVELTO O.
+\newblock Generation of high energy 10 fs pulses by a new pulse compression
+  technique\allowbreak[J/OL].
+\newblock Applied Physics Letters, 1996, 68\allowbreak (20): 2793-2795.
+\newblock DOI: \doi{10.1063/1.116609}.
+
+\bibitem[Jeong et~al.(2018)Jeong, Piccoli, Ferachou, Cardin, Chini,
+  H{\"a}drich, Limpert, Morandotti, L{\'e}gar{\'e}, Schmidt, and
+  Razzari]{jeongDirectCompression170fs2018}
+JEONG Y~G, PICCOLI R, FERACHOU D, et~al.
+\newblock Direct compression of 170-fs 50-cycle pulses down to 1.5 cycles with
+  70\% transmission\allowbreak[J/OL].
+\newblock Scientific Reports, 2018, 8\allowbreak (1): 11794.
+\newblock DOI: \doi{10.1038/s41598-018-30198-y}.
+
+\bibitem[Baltu{\v s}ka et~al.(2002)Baltu{\v s}ka, Fuji, and
+  Kobayashi]{baltuskaControllingCarrierenvelopePhase2002}
+BALTU{\v S}KA A, FUJI T, KOBAYASHI T.
+\newblock Controlling the carrier-envelope phase of ultrashort light pulses
+  with optical parametric amplifiers\allowbreak[J/OL].
+\newblock Physical Review Letters, 2002, 88\allowbreak (13): 133901.
+\newblock DOI: \doi{10.1103/PhysRevLett.88.133901}.
+
+\bibitem[Budri{\=u}nas et~al.(2017)Budri{\=u}nas, Stanislauskas, Adamonis,
+  Aleknavi{\v c}ius, Veitas, Gadonas, Balickas, Michailovas, and Varanavi{\v
+  c}ius]{budriunas53AveragePower2017}
+BUDRI{\=U}NAS R, STANISLAUSKAS T, ADAMONIS J, et~al.
+\newblock 53 {{W}} average power {{CEP-stabilized OPCPA}} system delivering 55
+  {{TW}} few cycle pulses at 1 {{kHz}} repetition rate\allowbreak[J/OL].
+\newblock Optics Express, 2017, 25\allowbreak (5): 5797.
+\newblock DOI: \doi{10.1364/OE.25.005797}.
+
+\bibitem[Farinella et~al.(2019)Farinella, Wheeler, Hussein, Nees, Stanfield,
+  Beier, Ma, Cojocaru, Ungureanu, Pittman, Demailly, Baynard, Fabbri, Masruri,
+  Secareanu, Naziru, Dabu, Maksimchuk, Krushelnick, Ros, Mourou, Tajima, and
+  Dollar]{farinellaFocusabilityLaserPulses2019}
+FARINELLA D~M, WHEELER J, HUSSEIN A~E, et~al.
+\newblock Focusability of laser pulses at petawatt transport intensities in
+  thin-film compression\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2019, 36\allowbreak (2):
+  A28.
+\newblock DOI: \doi{10.1364/JOSAB.36.000A28}.
+
+\bibitem[Zhu et~al.(2019)Zhu, Chen, Weng, McKenna, Sheng, and
+  Zhang]{zhuSinglecycleTerawattTwistedlight2019}
+ZHU X~L, CHEN M, WENG S~M, et~al.
+\newblock Single-cycle terawatt twisted-light pulses at midinfrared wavelengths
+  above 10 {\emph{{\textmu}}} m\allowbreak[J/OL].
+\newblock Physical Review Applied, 2019, 12\allowbreak (5): 54024.
+\newblock DOI: \doi{10.1103/PhysRevApplied.12.054024}.
+
+\end{thebibliography}

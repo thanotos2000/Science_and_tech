@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ÎÄÏ×ÔÄ¶Á±¨¸æ1.aux
+The style file: gbt7714-numerical.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref.bib
+Warning--empty year in rollandCompressionHighpowerOptical
+Warning--empty year in rollandCompressionHighpowerOptical
+Warning--empty year in rollandCompressionHighpowerOptical
+Warning--empty year in rollandCompressionHighpowerOptical
+You've used 98 entries,
+            5366 wiz_defined-function locations,
+            1757 strings with 39496 characters,
+and the built_in function-call counts, 801954 in all, are:
+= -- 25162
+> -- 87940
+< -- 103338
++ -- 30026
+- -- 10170
+* -- 8218
+:= -- 114593
+add.period$ -- 390
+call.type$ -- 98
+change.case$ -- 938
+chr.to.int$ -- 25039
+cite$ -- 102
+duplicate$ -- 2357
+empty$ -- 11291
+format.name$ -- 4043
+if$ -- 206826
+int.to.chr$ -- 1
+int.to.str$ -- 99
+missing$ -- 0
+newline$ -- 600
+num.names$ -- 294
+pop$ -- 34817
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 84139
+stack$ -- 0
+substring$ -- 43149
+swap$ -- 98
+text.length$ -- 2577
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1078
+warning$ -- 4
+while$ -- 2798
+width$ -- 0
+write$ -- 1670
+(There were 4 warnings)

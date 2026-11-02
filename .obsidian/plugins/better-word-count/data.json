@@ -1,0 +1,50 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": "词 ",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": " ",
+      "suffix": "字符 ",
+      "metric": {
+        "type": 0,
+        "counter": 1
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "句",
+      "metric": {
+        "type": 0,
+        "counter": 2
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " files ",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "词 ",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    }
+  ],
+  "countComments": true,
+  "collectStats": true,
+  "displaySectionCounts": false,
+  "pageWords": 300
+}

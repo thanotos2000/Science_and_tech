@@ -1,0 +1,194 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Gavara et~al.(2020)Gavara, Hasan, Abu~Hassan, Deng, and
+  Chang]{gavaraBandedgeMediatedFrequency2020}
+GAVARA T, HASAN M~I, ABU~HASSAN M~R, et~al.
+\newblock Band-edge mediated frequency down-conversion in a gas-filled
+  anti-resonant hollow-core fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2020, 45\allowbreak (24): 6815.
+\newblock DOI: \doi{10.1364/OL.411109}.
+
+\bibitem[Xie et~al.(2018)Xie, Wang, Zhu, Lu, Wang, and
+  Chen]{xiePhotonicsMeetsTopology2018}
+XIE B~Y, WANG H~F, ZHU X~Y, et~al.
+\newblock Photonics meets topology\allowbreak[J/OL].
+\newblock Optics Express, 2018, 26\allowbreak (19): 24531.
+\newblock DOI: \doi{10.1364/OE.26.024531}.
+
+\bibitem[Yu et~al.(2019)Yu, Song, Wu, Birks, Bird, and
+  Knight]{yuAttenuationLimitSilicabased2019}
+YU F, SONG P, WU D, et~al.
+\newblock Attenuation limit of silica-based hollow-core fiber at mid-{{IR}}
+  wavelengths\allowbreak[J].
+\newblock APL Photonics, 2019, 4\allowbreak (8).
+
+\bibitem[Debord et~al.(2014)Debord, Alharbi, Vincetti, Husakou,
+  {Fourcade-Dutin}, Hoenninger, Mottay, G{\'e}r{\^o}me, and
+  Benabid]{debordMultimeterFiberdeliveryPulse2014}
+DEBORD B, ALHARBI M, VINCETTI L, et~al.
+\newblock Multi-meter fiber-delivery and pulse self-compression of milli-joule
+  femtosecond laser and fiber-aided laser-micromachining\allowbreak[J].
+\newblock Optics Express, 2014, 22\allowbreak (9): 10735-10746.
+
+\bibitem[Xu et~al.(2017)Xu, Chen, and Huang]{xuUltraslowWeaklightSolitons2017}
+XU D, CHEN Z, HUANG G.
+\newblock Ultraslow weak-light solitons and their storage and retrieval in a
+  kagome-structured hollow-core photonic crystal fiber\allowbreak[J/OL].
+\newblock Optics Express, 2017, 25\allowbreak (16): 19094.
+\newblock DOI: \doi{10.1364/OE.25.019094}.
+
+\bibitem[Jacobson et~al.(2019)Jacobson, Riggio, M.~Tait, and
+  EM~Baillie]{jacobsonGlobalAreasLow2019}
+JACOBSON A~P, RIGGIO J, M.~TAIT A, et~al.
+\newblock Global areas of low human impact (`low impact areas') and
+  fragmentation of the natural world\allowbreak[J].
+\newblock Scientific Reports, 2019, 9\allowbreak (1): 14179.
+
+\bibitem[Belli et~al.(2019)Belli, Abdolvand, Travers, and
+  Russell]{belliHighlyEfficientDeep2019}
+BELLI F, ABDOLVAND A, TRAVERS J~C, et~al.
+\newblock Highly efficient deep {{UV}} generation by four-wave mixing in
+  gas-filled hollow-core photonic crystal fiber\allowbreak[J].
+\newblock Optics Letters, 2019, 44\allowbreak (22): 5509-5512.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011a}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright spatially coherent wavelength-tunable deep-{{UV}} laser source
+  using an ar-filled photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[K{\"o}ttig et~al.(2020)K{\"o}ttig, Tani, and
+  Russell]{kottigModulationalinstabilityfreePulseCompression2020}
+K{\"O}TTIG F, TANI F, RUSSELL P~S~J.
+\newblock Modulational-instability-free pulse compression in anti-resonant
+  hollow-core photonic crystal fiber\allowbreak[J].
+\newblock Optics Letters, 2020, 45\allowbreak (14): 4044-4047.
+
+\bibitem[Cimek et~al.(2018)Cimek, Forestier, Stepien, Klimczak, and
+  Buczynski]{cimekSynthesisConditionsZBLAN2018}
+CIMEK J, FORESTIER X, STEPIEN R, et~al.
+\newblock Synthesis conditions of {{ZBLAN}} glass for mid-infrared optical
+  components\allowbreak[J/OL].
+\newblock Photonics Letters of Poland, 2018, 10\allowbreak (1): 8.
+\newblock DOI: \doi{10.4302/plp.v10i1.804}.
+
+\bibitem[Marcatili et~al.(1964)Marcatili and
+  Schmeltzer]{marcatiliHollowMetallicDielectric1964a}
+MARCATILI E~A~J, SCHMELTZER R~A.
+\newblock Hollow metallic and dielectric waveguides for long distance optical
+  transmission and lasers\allowbreak[J/OL].
+\newblock Bell System Technical Journal, 1964, 43\allowbreak (4): 1783-1809.
+\newblock DOI: \doi{10.1002/j.1538-7305.1964.tb04108.x}.
+
+\bibitem[K{\"o}ttig et~al.(2017)K{\"o}ttig, Novoa, Tani, G{\"u}nendi,
+  Cassataro, Travers, and Russell]{kottigMidinfraredDispersiveWave2017}
+K{\"O}TTIG F, NOVOA D, TANI F, et~al.
+\newblock Mid-infrared dispersive wave generation in gas-filled photonic
+  crystal fibre by transient ionization-driven changes in
+  dispersion\allowbreak[J].
+\newblock Nature Communications, 2017, 8\allowbreak (1): 813.
+
+\bibitem[Novoa et~al.(2015)Novoa, Cassataro, Travers, and
+  Russell]{novoaPhotoionizationinducedEmissionTunable2015}
+NOVOA D, CASSATARO M, TRAVERS J~C, et~al.
+\newblock Photoionization-induced emission of tunable few-cycle midinfrared
+  dispersive waves in gas-filled hollow-core photonic crystal
+  fibers\allowbreak[J/OL].
+\newblock Physical Review Letters, 2015, 115\allowbreak (3): 33901.
+\newblock DOI: \doi{10.1103/PhysRevLett.115.033901}.
+
+\bibitem[Hasan et~al.(2019)Hasan, Akhmediev, Mussot, and
+  Chang]{hasanMidinfraredPulseGeneration2019}
+HASAN M~I, AKHMEDIEV N, MUSSOT A, et~al.
+\newblock Midinfrared pulse generation by pumping in the normal-dispersion
+  regime of a gas-filled hollow-core fiber\allowbreak[J/OL].
+\newblock Physical Review Applied, 2019, 12\allowbreak (1): 14050.
+\newblock DOI: \doi{10.1103/PhysRevApplied.12.014050}.
+
+\bibitem[Qi et~al.(2020)Qi, Schaarschmidt, Chemnitz, and
+  Schmidt]{qiEssentialsResonanceenhancedSolitonbased2020}
+QI X, SCHAARSCHMIDT K, CHEMNITZ M, et~al.
+\newblock Essentials of resonance-enhanced soliton-based supercontinuum
+  generation\allowbreak[J].
+\newblock Optics Express, 2020, 28\allowbreak (2): 2557-2571.
+
+\bibitem[Wu et~al.(2020)Wu, Siwicki, Carter, Biancalana, Shephard, and
+  Hand]{wuImpactNonlinearEffects2020}
+WU S, SIWICKI B, CARTER R~M, et~al.
+\newblock Impact of nonlinear effects on transmission losses of hollow-core
+  antiresonant negative curvature optical fiber\allowbreak[J].
+\newblock Applied Optics, 2020, 59\allowbreak (16): 4988-4996.
+
+\bibitem[Sollapur et~al.(2017)Sollapur, Kartashov, Z{\"u}rch, Hoffmann,
+  Grigorova, Sauer, Hartung, Schwuchow, Bierlich, and
+  Kobelke]{sollapurResonanceenhancedMultioctaveSupercontinuum2017}
+SOLLAPUR R, KARTASHOV D, Z{\"U}RCH M, et~al.
+\newblock Resonance-enhanced multi-octave supercontinuum generation in
+  antiresonant hollow-core fibers\allowbreak[J].
+\newblock Light: Science \& Applications, 2017, 6\allowbreak (12):
+  e17124-e17124.
+
+\bibitem[Chang et~al.(2011)Chang, Nazarkin, Travers, Nold, H{\"o}lzer, Joly,
+  and Russell]{changInfluenceIonizationUltrafast2011a}
+CHANG W, NAZARKIN A, TRAVERS J~C, et~al.
+\newblock Influence of ionization on ultrafast gas-based nonlinear fiber
+  optics\allowbreak[J].
+\newblock Optics Express, 2011, 19\allowbreak (21): 21018-21027.
+
+\bibitem[Chang et~al.(2011)Chang, Nazarkin, Travers, Nold, H{\"o}lzer, Joly,
+  and Russell]{changInfluenceIonizationUltrafast2011b}
+CHANG W, NAZARKIN A, TRAVERS J~C, et~al.
+\newblock Influence of ionization on ultrafast gas-based nonlinear fiber
+  optics\allowbreak[J].
+\newblock Optics Express, 2011, 19\allowbreak (21): 21018-21027.
+
+\bibitem[Hasan et~al.(2018)Hasan, Akhmediev, and
+  Chang]{hasanEmpiricalFormulaeDispersion2018}
+HASAN M~I, AKHMEDIEV N, CHANG W.
+\newblock Empirical formulae for dispersion and effective mode area in
+  hollow-core antiresonant fibers\allowbreak[J].
+\newblock Journal of Lightwave Technology, 2018, 36\allowbreak (18): 4060-4065.
+
+\bibitem[Gavara et~al.(2020)Gavara, Hasan, Hassan, Deng, and
+  Chang]{gavaraBandedgeMediatedFrequency2020a}
+GAVARA T, HASAN M~I, HASSAN M~R~A, et~al.
+\newblock Band-edge mediated frequency down-conversion in a gas-filled
+  anti-resonant hollow-core fiber\allowbreak[J].
+\newblock Optics Letters, 2020, 45\allowbreak (24): 6815-6818.
+
+\bibitem[Lehmeier et~al.(1985)Lehmeier, Leupacher, and
+  Penzkofer]{lehmeierNonresonantThirdOrder1985a}
+LEHMEIER H~J, LEUPACHER W, PENZKOFER A.
+\newblock Nonresonant third order hyperpolarizability of rare gases and {{N2}}
+  determined by third harmonic generation\allowbreak[J].
+\newblock Optics Communications, 1985, 56\allowbreak (1): 67-72.
+
+\bibitem[Carlson et~al.(2017)Carlson, Hickstein, Lind, Olson, Fox, Brown,
+  Ludlow, Li, Westly, Leopardi, Fortier, Srinivasan, Diddams, and
+  Papp]{carlsonPhotonicchipSupercontinuumTailored2017}
+CARLSON D~R, HICKSTEIN D~D, LIND A, et~al.
+\newblock Photonic-chip supercontinuum with tailored spectra for counting
+  optical frequencies\allowbreak[J/OL].
+\newblock Physical Review Applied, 2017, 8\allowbreak (1): 14027.
+\newblock DOI: \doi{10.1103/PhysRevApplied.8.014027}.
+
+\bibitem[Andersen(1975)]{andersen7thEuropeanConference1975}
+ANDERSEN T.
+\newblock 7th european conference on atomic spectroscopy-grenoble, france, 8-11
+  july 1975\allowbreak[J].
+\newblock Europhysics News, 1975, 6\allowbreak (8): 8-8.
+
+\end{thebibliography}

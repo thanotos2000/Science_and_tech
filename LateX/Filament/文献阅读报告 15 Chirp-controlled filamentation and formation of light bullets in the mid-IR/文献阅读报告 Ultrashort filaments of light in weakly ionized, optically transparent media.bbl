@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Shumakova et~al.(2019)Shumakova, Ali{\v s}auskas, Malevich, Voronin,
+  Mitrofanov, {Sidorov-Biryukov}, Zheltikov, Kartashov, Baltu{\v s}ka, and
+  Pug{\v z}lys]{shumakovaChirpcontrolledFilamentationFormation2019}
+SHUMAKOVA V, ALI{\v S}AUSKAS S, MALEVICH P, et~al.
+\newblock Chirp-controlled filamentation and formation of light bullets in the
+  mid-{{IR}}\allowbreak[J/OL].
+\newblock Optics Letters, 2019, 44\allowbreak (9): 2173.
+\newblock DOI: \doi{10.1364/OL.44.002173}.
+
+\end{thebibliography}

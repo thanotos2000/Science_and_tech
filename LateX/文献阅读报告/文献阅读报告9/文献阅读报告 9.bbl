@@ -1,0 +1,340 @@
+\begin{thebibliography}{42}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Durfee et~al.(1997)Durfee, Backus, Murnane, and
+  Kapteyn]{durfeeUltrabroadbandPhasematchedOptical1997}
+DURFEE C~G, BACKUS S, MURNANE M~M, et~al.
+\newblock Ultrabroadband phase-matched optical parametric generation in the
+  ultraviolet by use of guided waves\allowbreak[J].
+\newblock Optics Letters, 1997, 22\allowbreak (20): 1565-1567.
+
+\bibitem[Kida et~al.(2014)Kida and
+  Imasaka]{kidaOpticalParametricAmplification2014}
+KIDA Y, IMASAKA T.
+\newblock Optical parametric amplification of a supercontinuum in a
+  gas\allowbreak[J].
+\newblock Applied Physics B, 2014, 116: 673-680.
+
+\bibitem[Misoguti et~al.(2001)Misoguti, Backus, Durfee, Bartels, Murnane, and
+  Kapteyn]{misogutiGenerationBroadbandVUV2001}
+MISOGUTI L, BACKUS S, DURFEE C~G, et~al.
+\newblock Generation of broadband {{VUV}} light using third-order cascaded
+  processes\allowbreak[J].
+\newblock Physical Review Letters, 2001, 87\allowbreak (1): 13601.
+
+\bibitem[Wagner et~al.(2004)Wagner, Gibson, Popmintchev, Christov, Murnane, and
+  Kapteyn]{wagnerSelfCompressionUltrashortPulses2004}
+WAGNER N~L, GIBSON E~A, POPMINTCHEV T, et~al.
+\newblock Self-{{Compression}} of {{Ultrashort Pulses}} through
+  {{Ionization-Induced Spatiotemporal Reshaping}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2004, 93\allowbreak (17): 173902.
+\newblock DOI: \doi{10.1103/PhysRevLett.93.173902}.
+
+\bibitem[Anderson et~al.(2014)Anderson, Horak, Frey, and
+  Brocklesby]{andersonHighenergyLaserpulseSelfcompression2014}
+ANDERSON P~N, HORAK P, FREY J~G, et~al.
+\newblock High-energy laser-pulse self-compression in short gas-filled
+  fibers\allowbreak[J/OL].
+\newblock Physical Review A, 2014, 89\allowbreak (1): 13819.
+\newblock DOI: \doi{10.1103/PhysRevA.89.013819}.
+
+\bibitem[Gao et~al.(2018)Gao, Patwardhan, Shim, Popmintchev, Kapteyn, Murnane,
+  and Gaeta]{gaoIonizationassistedSpatiotemporalLocalization2018}
+GAO X, PATWARDHAN G, SHIM B, et~al.
+\newblock Ionization-assisted spatiotemporal localization in gas-filled
+  capillaries\allowbreak[J].
+\newblock Optics letters, 2018, 43\allowbreak (13): 3112-3115.
+
+\bibitem[Durfee~III et~al.(1999)Durfee~III, Rundquist, Backus, Herne, Murnane,
+  and Kapteyn]{durfeeiiiPhaseMatchingHighorder1999}
+DURFEE~III C~G, RUNDQUIST A~R, BACKUS S, et~al.
+\newblock Phase matching of high-order harmonics in hollow
+  waveguides\allowbreak[J].
+\newblock Physical Review Letters, 1999, 83\allowbreak (11): 2187.
+
+\bibitem[Popmintchev et~al.(2012)Popmintchev, Chen, Popmintchev, Arpin, Brown,
+  Ali{\v s}auskas, Andriukaitis, Bal{\v c}iunas, M{\"u}cke, and
+  Pugzlys]{popmintchevBrightCoherentUltrahigh2012}
+POPMINTCHEV T, CHEN M~C, POPMINTCHEV D, et~al.
+\newblock Bright coherent ultrahigh harmonics in the {{keV}} x-ray regime from
+  mid-infrared femtosecond lasers\allowbreak[J].
+\newblock Science, 2012, 336\allowbreak (6086): 1287-1291.
+
+\bibitem[Chemnitz et~al.(2017)Chemnitz, Gebhardt, Gaida, Stutzki, Kobelke,
+  Limpert, T{\"u}nnermann, and Schmidt]{chemnitzHybridSolitonDynamics2017}
+CHEMNITZ M, GEBHARDT M, GAIDA C, et~al.
+\newblock Hybrid soliton dynamics in liquid-core fibres\allowbreak[J].
+\newblock Nature communications, 2017, 8\allowbreak (1): 42.
+
+\bibitem[Nisoli et~al.(1996)Nisoli, De~Silvestri, and
+  Svelto]{nisoliGenerationHighEnergy1996}
+NISOLI M, DE~SILVESTRI S, SVELTO O.
+\newblock Generation of high energy 10 fs pulses by a new pulse compression
+  technique\allowbreak[J/OL].
+\newblock Applied Physics Letters, 1996, 68\allowbreak (20): 2793-2795.
+\newblock DOI: \doi{10.1063/1.116609}.
+
+\bibitem[Nisoli et~al.(March-April)Nisoli, Stagira, De~Silvestri, Svelto,
+  Sartania, Cheng, Tempea, Spielmann, and
+  Krausz]{nisoliTerawattscaleSub10fsLaser1998}
+NISOLI M, STAGIRA S, DE~SILVESTRI S, et~al.
+\newblock Toward a terawatt-scale sub-10-fs laser technology\allowbreak[J/OL].
+\newblock IEEE Journal of Selected Topics in Quantum Electronics, March-April,
+  4\allowbreak (2): 414-420.
+\newblock DOI: \doi{10.1109/2944.686749}.
+
+\bibitem[Mollenauer et~al.(1983)Mollenauer, Stolen, Gordon, and
+  Tomlinson]{mollenauerExtremePicosecondPulse1983}
+MOLLENAUER L~F, STOLEN R~H, GORDON J~P, et~al.
+\newblock Extreme picosecond pulse narrowing by means of soliton effect in
+  single-mode optical fibers\allowbreak[J].
+\newblock Optics Letters, 1983, 8\allowbreak (5): 289-291.
+
+\bibitem[Im et~al.(2010)Im, Husakou, and
+  Herrmann]{imHighpowerSolitoninducedSupercontinuum2010}
+IM S~J, HUSAKOU A, HERRMANN J.
+\newblock High-power soliton-induced supercontinuum generation and tunable
+  sub-10-fs {{VUV}} pulses from kagome-lattice {{HC-PCFs}}\allowbreak[J/OL].
+\newblock Optics Express, 2010, 18\allowbreak (6): 5367.
+\newblock DOI: \doi{10.1364/OE.18.005367}.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright spatially coherent wavelength-tunable deep-{{UV}} laser source
+  using an ar-filled photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[Mak et~al.(2013)Mak, Travers, Joly, Abdolvand, and
+  Russell]{makTwoTechniquesTemporal2013}
+MAK K~F, TRAVERS J~C, JOLY N~Y, et~al.
+\newblock Two techniques for temporal pulse compression in gas-filled
+  hollow-core kagom{\'e} photonic crystal fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (18): 3592.
+\newblock DOI: \doi{10.1364/OL.38.003592}.
+
+\bibitem[Balciunas et~al.(2015)Balciunas, {Fourcade-Dutin}, Fan, Witting,
+  Voronin, Zheltikov, Gerome, Paulus, Baltuska, and
+  Benabid]{balciunasStrongfieldDriverSinglecycle2015}
+BALCIUNAS T, {Fourcade-Dutin} C, FAN G, et~al.
+\newblock A strong-field driver in the single-cycle regime based on
+  self-compression in a kagome fibre\allowbreak[J/OL].
+\newblock Nature Communications, 2015, 6\allowbreak (1): 6117.
+\newblock DOI: \doi{10.1038/ncomms7117}.
+
+\bibitem[Dudley et~al.(2006)Dudley, Genty, and
+  Coen]{dudleySupercontinuumGenerationPhotonic2006}
+DUDLEY J, GENTY G, COEN S.
+\newblock Supercontinuum generation in photonic crystal fiber\allowbreak[J/OL].
+\newblock Reviews of Modern Physics, 2006, 78\allowbreak (4): 1135-1184.
+\newblock DOI: \doi{10.1103/REVMODPHYS.78.1135}.
+
+\bibitem[Wai et~al.(1986)Wai, Menyuk, Lee, and
+  Chen]{waiNonlinearPulsePropagation1986}
+WAI P~K~A, MENYUK C~R, LEE Y~C, et~al.
+\newblock Nonlinear pulse propagation in the neighborhood of the
+  zero-dispersion wavelength of monomode optical fibers\allowbreak[J/OL].
+\newblock Optics Letters, 1986, 11\allowbreak (7): 464.
+\newblock DOI: \doi{10.1364/OL.11.000464}.
+
+\bibitem[Mak et~al.(2013)Mak, Travers, H{\"o}lzer, Joly, and
+  Russell]{makTunableVacuumUVVisible2013}
+MAK K~F, TRAVERS J~C, H{\"O}LZER P, et~al.
+\newblock Tunable vacuum-{{UV}} to visible ultrafast pulse source based on
+  gas-filled kagome-{{PCF}}\allowbreak[J].
+\newblock Optics express, 2013, 21\allowbreak (9): 10942-10953.
+
+\bibitem[Belli et~al.(2015)Belli, Abdolvand, Chang, Travers, and
+  Russell]{belliVacuumultravioletInfraredSupercontinuum2015}
+BELLI F, ABDOLVAND A, CHANG W, et~al.
+\newblock Vacuum-ultraviolet to infrared supercontinuum in hydrogen-filled
+  photonic crystal fiber\allowbreak[J/OL].
+\newblock Optica, 2015, 2\allowbreak (4): 292.
+\newblock DOI: \doi{10.1364/OPTICA.2.000292}.
+
+\bibitem[Ermolov et~al.(2015)Ermolov, Mak, Frosz, Travers, and
+  Russell]{ermolovSupercontinuumGenerationVacuum2015}
+ERMOLOV A, MAK K~F, FROSZ M~H, et~al.
+\newblock Supercontinuum generation in the vacuum ultraviolet through
+  dispersive-wave and soliton-plasma interaction in a noble-gas-filled
+  hollow-core photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review A, 2015, 92\allowbreak (3): 033821.
+\newblock DOI: \doi{10.1103/PhysRevA.92.033821}.
+
+\bibitem[Bromberger et~al.(2015)Bromberger, Ermolov, Belli, Liu, Calegari,
+  {Ch{\'a}vez-Cervantes}, Li, Lin, Abdolvand, and
+  Russell]{brombergerAngleresolvedPhotoemissionSpectroscopy2015}
+BROMBERGER H, ERMOLOV A, BELLI F, et~al.
+\newblock Angle-resolved photoemission spectroscopy with 9-{{eV}} photon-energy
+  pulses generated in a gas-filled hollow-core photonic crystal
+  fiber\allowbreak[J].
+\newblock Applied Physics Letters, 2015, 107\allowbreak (9).
+
+\bibitem[K{\"o}ttig et~al.(2017)K{\"o}ttig, Tani, Biersach, Travers, and
+  Russell]{kottigGenerationMicrojoulePulses2017}
+K{\"O}TTIG F, TANI F, BIERSACH C~M, et~al.
+\newblock Generation of microjoule pulses in the deep ultraviolet at megahertz
+  repetition rates\allowbreak[J/OL].
+\newblock Optica, 2017, 4\allowbreak (10): 1272.
+\newblock DOI: \doi{10.1364/OPTICA.4.001272}.
+
+\bibitem[Marcatili et~al.(1964)Marcatili and
+  Schmeltzer]{marcatiliHollowMetallicDielectric1964}
+MARCATILI E~A~J, SCHMELTZER R~A.
+\newblock Hollow {{Metallic}} and {{Dielectric Waveguides}} for {{Long Distance
+  Optical Transmission}} and {{Lasers}}\allowbreak[J/OL].
+\newblock Bell System Technical Journal, 1964, 43\allowbreak (4): 1783-1809.
+\newblock DOI: \doi{10.1002/j.1538-7305.1964.tb04108.x}.
+
+\bibitem[{L{\'o}pez-Zubieta} et~al.(2018){L{\'o}pez-Zubieta}, Jarque, Sola, and
+  San~Roman]{lopez-zubietaTheoreticalAnalysisSinglecycle2018}
+{L{\'o}pez-Zubieta} B~A, JARQUE E~C, SOLA {\'I}~J, et~al.
+\newblock Theoretical analysis of single-cycle self-compression of near
+  infrared pulses using high-spatial modes in capillary fibers\allowbreak[J].
+\newblock Optics express, 2018, 26\allowbreak (5): 6345-6350.
+
+\bibitem[{L{\'o}pez-Zubieta} et~al.(2018){L{\'o}pez-Zubieta}, Jarque, Sola, and
+  San~Roman]{lopez-zubietaSpatiotemporaldressedOpticalSolitons2018}
+{L{\'o}pez-Zubieta} B~A, JARQUE E~C, SOLA {\'I}~J, et~al.
+\newblock Spatiotemporal-dressed optical solitons in hollow-core
+  capillaries\allowbreak[J].
+\newblock OSA Continuum, 2018, 1\allowbreak (3): 930-938.
+
+\bibitem[Zhao et~al.(2017)Zhao, Wang, Zhao, Leng, and
+  Li]{zhaoSelfcompression8mmPulses2017}
+ZHAO R~R, WANG D, ZHAO Y, et~al.
+\newblock Self-compression of 1.8-{$M$}m pulses in gas-filled hollow-core
+  fibers\allowbreak[J].
+\newblock Chinese Physics B, 2017, 26\allowbreak (10): 104206.
+
+\bibitem[Voronin et~al.(2014)Voronin and
+  Zheltikov]{voroninSubcycleSolitonicBreathers2014}
+VORONIN A~A, ZHELTIKOV A~M.
+\newblock Subcycle solitonic breathers\allowbreak[J].
+\newblock Physical Review A, 2014, 90\allowbreak (4): 43807.
+
+\bibitem[Fibich et~al.(2000)Fibich and
+  Gaeta]{fibichCriticalPowerSelffocusing2000}
+FIBICH G, GAETA A~L.
+\newblock Critical power for self-focusing in bulk media and in hollow
+  waveguides\allowbreak[J].
+\newblock Optics Letters, 2000, 25\allowbreak (5): 335-337.
+
+\bibitem[Hassan et~al.(2016)Hassan, Luu, Moulet, Raskazovskaya, Zhokhov, Garg,
+  Karpowicz, Zheltikov, Pervak, and Krausz]{hassanOpticalAttosecondPulses2016}
+HASSAN M~T, LUU T~T, MOULET A, et~al.
+\newblock Optical attosecond pulses and tracking the nonlinear response of
+  bound electrons\allowbreak[J].
+\newblock Nature, 2016, 530\allowbreak (7588): 66-70.
+
+\bibitem[Wirth et~al.(2011)Wirth, Hassan, Grgura{\v s}, Gagnon, Moulet, Luu,
+  Pabst, Santra, Alahmed, and Azzeer]{wirthSynthesizedLightTransients2011}
+WIRTH A, HASSAN M~T, GRGURA{\v S} I, et~al.
+\newblock Synthesized light transients\allowbreak[J/OL].
+\newblock Science, 2011, 334\allowbreak (6053): 195-200.
+\newblock DOI: \doi{10.1126/science.1210268}.
+
+\bibitem[Beaud et~al.(1987)Beaud, Hodel, Zysset, and
+  Weber]{beaudUltrashortPulsePropagation1987}
+BEAUD P, HODEL W, ZYSSET B, et~al.
+\newblock Ultrashort pulse propagation, pulse breakup, and fundamental soliton
+  formation in a single-mode optical fiber\allowbreak[J].
+\newblock IEEE journal of quantum electronics, 1987, 23\allowbreak (11):
+  1938-1946.
+
+\bibitem[Kodama et~al.(1987)Kodama and
+  Hasegawa]{kodamaNonlinearPulsePropagation1987}
+KODAMA Y, HASEGAWA A.
+\newblock Nonlinear pulse propagation in a monomode dielectric
+  guide\allowbreak[J].
+\newblock IEEE Journal of Quantum Electronics, 1987, 23\allowbreak (5):
+  510-524.
+
+\bibitem[Husakou et~al.(2001)Husakou and
+  Herrmann]{husakouSupercontinuumGenerationHigherorder2001}
+HUSAKOU A~V, HERRMANN J.
+\newblock Supercontinuum generation of higher-order solitons by fission in
+  photonic crystal fibers\allowbreak[J].
+\newblock Physical Review Letters, 2001, 87\allowbreak (20): 203901.
+
+\bibitem[Erkintalo et~al.(2012)Erkintalo, Xu, Murdoch, Dudley, and
+  Genty]{erkintaloCascadedPhaseMatching2012}
+ERKINTALO M, XU Y~Q, MURDOCH S~G, et~al.
+\newblock Cascaded phase matching and nonlinear symmetry breaking in fiber
+  frequency combs\allowbreak[J].
+\newblock Physical review letters, 2012, 109\allowbreak (22): 223904.
+
+\bibitem[Akhmediev et~al.(1995)Akhmediev and
+  Karlsson]{akhmedievCherenkovRadiationEmitted1995}
+AKHMEDIEV N, KARLSSON M.
+\newblock Cherenkov radiation emitted by solitons in optical
+  fibers\allowbreak[J/OL].
+\newblock Physical Review A, 1995, 51\allowbreak (3): 2602-2607.
+\newblock DOI: \doi{10.1103/PhysRevA.51.2602}.
+
+\bibitem[Austin et~al.(2006)Austin, {de Sterke}, Eggleton, and
+  Brown]{austinDispersiveWaveBlueshift2006}
+AUSTIN D~R, {de Sterke} C~M, EGGLETON B~J, et~al.
+\newblock Dispersive wave blue-shift in supercontinuum
+  generation\allowbreak[J].
+\newblock Optics Express, 2006, 14\allowbreak (25): 11997-12007.
+
+\bibitem[Ghotbi et~al.(2010)Ghotbi, Beutler, and
+  Noack]{ghotbiGenerationMJVacuum2010}
+GHOTBI M, BEUTLER M, NOACK F.
+\newblock Generation of 2.5 {{$\mu$J}} vacuum ultraviolet pulses with sub-50 fs
+  duration by noncollinear four-wave mixing in argon\allowbreak[J].
+\newblock Optics Letters, 2010, 35\allowbreak (20): 3492-3494.
+
+\bibitem[Shi et~al.(2013)Shi, Li, Zhou, Wang, and
+  Zeng]{shiGenerationMulticolorVacuum2013}
+SHI L, LI W, ZHOU H, et~al.
+\newblock Generation of multicolor vacuum ultraviolet pulses through four-wave
+  sum-frequency mixing in argon\allowbreak[J].
+\newblock Physical Review A, 2013, 88\allowbreak (5): 53825.
+
+\bibitem[Zhou et~al.(2014)Zhou, Li, Shi, Wang, Ding, and
+  Zeng]{zhouEfficientGenerationVacuum2014}
+ZHOU H, LI W, SHI L, et~al.
+\newblock Efficient generation of vacuum and extreme ultraviolet
+  pulses\allowbreak[J].
+\newblock Laser Physics Letters, 2014, 11\allowbreak (2): 25402.
+
+\bibitem[Chang et~al.(2018)Chang, Yu, Li, Yu, Wang, Su, Chen, Che, Wang, and
+  Zhang]{changTunableVUVPhotochemistry2018}
+CHANG Y, YU S, LI Q, et~al.
+\newblock Tunable {{VUV}} photochemistry using vacuum ultraviolet free electron
+  laser combined with {{H-atom}} rydberg tagging time-of-flight
+  spectroscopy\allowbreak[J].
+\newblock Review of Scientific Instruments, 2018, 89\allowbreak (6).
+
+\bibitem[Ayvazyan et~al.(2002)Ayvazyan, Baboi, Bohnet, Brinkmann, Castellano,
+  Castro, Catani, Choroba, Cianchi, Dohlus, Edwards, Faatz, Fateev, Feldhaus,
+  Fl{\"o}ttmann, Gamp, Garvey, Genz, Gerth, Gretchko, Grigoryan, Hahn, Hessler,
+  Honkavaara, H{\"u}ning, Ischebeck, Jablonka, Kamps, K{\"o}rfer, Krassilnikov,
+  Krzywinski, Liepe, Liero, Limberg, Loos, Luong, Magne, Menzel, Michelato,
+  Minty, M{\"u}ller, N{\"o}lle, Novokhatski, Pagani, Peters, Pfl{\"u}ger, Piot,
+  Plucinski, Rehlich, Reyzl, Richter, Rossbach, Saldin, Sandner, Schlarb,
+  Schmidt, Schm{\"u}ser, Schneider, Schneidmiller, Schreiber, Schreiber,
+  Sertore, Setzer, Simrock, Sobierajski, Sonntag, Steeg, Stephan, Sytchev,
+  Tiedtke, Tonutti, Treusch, Trines, T{\"u}rke, Verzilov, Wanzenberg, Weiland,
+  Weise, Wendt, Will, Wolff, Wittenburg, Yurkov, and
+  Zapfe]{ayvazyanGenerationGWRadiation2002}
+AYVAZYAN V, BABOI N, BOHNET I, et~al.
+\newblock Generation of {{GW}} radiation pulses from a {{VUV}} free-electron
+  laser operating in the femtosecond regime\allowbreak[J/OL].
+\newblock Physical Review Letters, 2002, 88\allowbreak (10): 104802.
+\newblock DOI: \doi{10.1103/PhysRevLett.88.104802}.
+
+\end{thebibliography}

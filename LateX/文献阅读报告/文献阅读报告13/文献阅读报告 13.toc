@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}实验设置}{2}{section.2}%
+\contentsline {section}{\numberline {3}Result}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Spectral broadening numerical modeling}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Experimental compression}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Multi-staged compression}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Focal spot characterization}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Discussion}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}光束特性}{5}{subsection.4.1}%
+\contentsline {section}{参考文献}{6}{section*.2}%

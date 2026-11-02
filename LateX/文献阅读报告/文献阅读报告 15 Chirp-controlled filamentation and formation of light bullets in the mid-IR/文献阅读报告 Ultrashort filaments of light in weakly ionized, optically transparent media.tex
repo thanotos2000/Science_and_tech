@@ -1,0 +1,158 @@
+\documentclass[14pt,a4paper,oneside]{article}
+
+\usepackage[utf8]{inputenc}   
+
+
+\usepackage{amsmath,amsthm,amssymb,appendix,bm,mathrsfs,ctex,geometry,tcolorbox,fancyhdr,tikz,esint,appendix}
+
+
+%% GB/T 7714 宏包 ---- 引文格式
+\usepackage[sort&compress]{gbt7714}
+\bibliographystyle{gbt7714-numerical}
+
+
+
+% \numberwithin{equation}{section}             %%%%%% 公式编号
+
+
+
+
+\geometry{left=1.7cm, right=1.7cm, top=2.54cm, bottom=2.54cm}    %%%%% 页面尺寸
+\linespread{1.5}                             %%%%% 行距1.5倍
+\pagestyle{fancy}
+
+
+
+%%    设置页眉页脚
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.15mm}
+\fancyhead[C]{文献阅读报告}                   %%%%%% 页眉
+\fancyfoot[C]{\thepage}                      %%%%%% 页脚 页码
+\setlength{\headheight}{15pt}
+
+
+%%   设置各种链接颜色为黑色
+\usepackage[colorlinks,
+            linkcolor=black,
+            anchorcolor=black,
+            citecolor=black,
+            urlcolor=blue
+            ]{hyperref}
+
+
+
+%%   例子编号
+\newcounter{example}
+\counterwithin{example}{subsection}
+\newcommand{\examplename}{Example}
+\newcommand{\exampleTitle}[1]{%
+\textbf{\refstepcounter{example}\examplename\theexample:#1}\par}
+
+
+%%  插入图片配置
+\usepackage{graphicx,subfigure}
+\usepackage[]{caption2} %新增调用的宏包
+% \numberwithin{figure}{section}               %%%%%% 图片编号按节
+
+\graphicspath{ {./Figure/} }            %%%%% 设置图片文件所在目录
+\DeclareGraphicsExtensions{.pdf,.svg,.jpeg,.png,.jpg}     %%%%% 支持图片格式
+
+
+%%    支持tikz作图
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,arrows}
+
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+
+
+\title{\textbf{文献阅读报告 15\\Chirp-controlled filamentation and formation of light bullets in the mid-IR}\cite{shumakovaChirpcontrolledFilamentationFormation2019}}                           %%%%% 标题
+\author{骆禹天}                                           %%%%% 作者
+\date{2024/**/**}                                        %%%%%% 日期
+
+%%   定义一些数学格式
+\newtheorem{theorem}{定理}[]
+\newtheorem{definition}[theorem]{定义}
+\newtheorem{lemma}[theorem]{引理}
+\newtheorem{corollary}[theorem]{推论}
+\newtheorem{example}[theorem]{例}
+\newtheorem{proposition}[theorem]{命题}
+\renewcommand{\abstractname}{\Large\textbf{摘要}}
+
+
+
+
+%------------------------- 开始文档  -------------------------%
+
+
+
+\begin{document}
+
+\pagenumbering{Roman}         %%%%% 目录前页码统计按罗马数字
+
+\maketitle
+
+\setcounter{page}{1}          %%%%% 标题开始统计页数
+
+%------------------------- 目录  ------------------------------%
+
+\tableofcontents              %%%%% 插入目录
+
+\newpage
+\setcounter{page}{1}          %%%%% 目录后重新统计页数
+
+
+\pagenumbering{arabic}        %%%%% 目录后统计页码为阿拉伯数字
+
+
+
+%%%%%%%%%%%%%%%%%%%% 开始第一节  %%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section{Introduction}
+
+许多非线性光谱技术
+
+· 远程激光诱导击穿光谱 (LIBS) [1]、
+
+· 非线性光成像、检测和测距 (LIDAR)
+
+· 分子指纹区域的多维光谱等
+
+需求: 以适当的脉冲持续时间和能量有针对性地传输强光，并保持良好的光束质量。
+
+问题: 
+
+· 通常，大气湍流会使这项任务变得复杂，导致折射率随机变化并且目标上出现光强度波动[2,3]。当光强度被钳制时，光在丝状状态下的传播在一定程度上有助于克服这个问题，但带来了与等离子体形成相关的新挑战，随之而来的是能量损失和时间脉冲分裂[4]。
+
+· 基于丝化的光束传输的另一限制: 调制不稳定性引起多重丝化发生，其具有随机特征并导致小范围的光束畸变。当脉冲峰值功率Ppeak远高于自聚焦Pcr的临界功率（Ppeak≳10Pcr[5]）时，会发生多重丝状形成。因此，在 40-fs 800-nm 脉冲的情况下，环境空气中单个灯丝中包含的能量被限制在亚毫焦级 [6]。
+
+· 驱动脉冲的时间预啁啾有助于在空间中的远程位置实现丝化[7]并增加最大能量，这可以在单个丝化机制中传输高达1-2 mJ [8]，但并不能消除等离子相关问题
+
+当驱动脉冲的波长增加时，情况会发生显着变化。由于 Pcr 与波长的平方成正比，因此可以在中红外脉冲驱动的单个灯丝中沉积更多的能量。此外，中红外光谱范围是有益的，因为它具有较低的电离率和较高的调制不稳定性阻力[9]。由于直径较大[9,10]，中红外灯丝对随机折射率波动和小型自然大气障碍（例如水滴）不太敏感。最后，在某些中红外光谱窗口中，高大气透明度和空气异常色散的独特组合促进了高能脉冲无损传输的机会[11]和同时孤子自压缩[12,13]，这导致增强远程目标位置的强度，这对于相干超连续谱 [14,15]、强太赫兹辐射 [16] 和高阶谐波 [17] 的生成非常重要。另一方面，中红外“指纹”光谱区域的多重分子共振特征不仅决定了异常色散窗口，而且由于吸收损失而使传播变得复杂，而吸收损失可以通过非线性光谱展宽来显着增强[15,18]。
+
+大气透明窗口之一位于 3.2 μm 和 4.2 μm 的共振之间[19,20]，分别对应于水蒸气（H2O）和二氧化碳（CO2）的吸收，这使得激光脉冲的无损传播成为可能中心波长在此光谱范围内。此外，由于空气在 3.6 和 4.2 μm 之间的异常色散 [19,20]，孤子自压缩  根据中红外脉冲 [13] 甚至 提供正如数值模拟所预测的那样[9,21]，形成光弹（light bullet, LB）——在空间和时间光包中高度局域化，在传播过程中保持其空间和时间特性[22]——是可能的。
+
+
+\section{}
+
+
+
+据我们所知，我们在这里报告了对环境空气中中红外LB的第一个实验观察。我们表明，通过灯丝的自压缩，可以在远程目标上生成对称光束轮廓中持续时间为 28-32 fs 的中红外脉冲，并显着抑制非线性增强的吸收损耗。
+
+%--------------------  插入参考文献  --------------------%
+
+\newpage
+
+\clearpage           %%%  “目录”中显示的页码正确, 需要添加
+
+\phantomsection      %%   “目录”中的链接能正确跳转, 需要添加 
+
+\addcontentsline{toc}{section}{参考文献}   %向目录中添加条目, 以章的名义
+
+\bibliography{ref}
+
+\end{document}  

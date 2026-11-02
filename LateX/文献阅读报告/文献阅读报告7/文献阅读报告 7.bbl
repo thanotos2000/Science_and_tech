@@ -1,0 +1,151 @@
+\begin{thebibliography}{19}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Cregan et~al.(1999)Cregan, Mangan, Knight, Birks, Russell, Roberts,
+  and Allan]{creganSingleModePhotonicBand1999}
+CREGAN R~F, MANGAN B~J, KNIGHT J~C, et~al.
+\newblock Single-{{Mode Photonic Band Gap Guidance}} of {{Light}} in
+  {{Air}}\allowbreak[J/OL].
+\newblock Science, 1999, 285\allowbreak (5433): 1537-1539.
+\newblock DOI: \doi{10.1126/science.285.5433.1537}.
+
+\bibitem[Couny et~al.(2006)Couny, Benabid, and
+  Light]{counyLargepitchKagomestructuredHollowcore2006}
+COUNY F, BENABID F, LIGHT P~S.
+\newblock Large-pitch kagome-structured hollow-core photonic crystal
+  fiber\allowbreak[J].
+\newblock Optics letters, 2006, 31\allowbreak (24): 3574-3576.
+
+\bibitem[St~J~Russell(2006)]{stjrussellPhotoniccrystalFibers2006}
+ST~J~RUSSELL P.
+\newblock Photonic-crystal fibers\allowbreak[J].
+\newblock Journal of Lightwave Technology, 2006, 24\allowbreak (12): 4729-4749.
+
+\bibitem[Russell(2003)]{russellPhotonicCrystalFibers2003}
+RUSSELL P.
+\newblock Photonic crystal fibers\allowbreak[J].
+\newblock science, 2003, 299\allowbreak (5605): 358-362.
+
+\bibitem[Knight(2003)]{knightPhotonicCrystalFibres2003}
+KNIGHT J~C.
+\newblock Photonic crystal fibres\allowbreak[J].
+\newblock nature, 2003, 424\allowbreak (6950): 847-851.
+
+\bibitem[Bhagwat et~al.(2008)Bhagwat and
+  Gaeta]{bhagwatNonlinearOpticsHollowcore2008}
+BHAGWAT A~R, GAETA A~L.
+\newblock Nonlinear optics in hollow-core photonic bandgap
+  fibers\allowbreak[J].
+\newblock Optics express, 2008, 16\allowbreak (7): 5035-5047.
+
+\bibitem[Benabid et~al.(2011)Benabid and
+  Roberts]{benabidLinearNonlinearOptical2011}
+BENABID F, ROBERTS P~J.
+\newblock Linear and nonlinear optical properties of hollow core photonic
+  crystal fiber\allowbreak[J].
+\newblock Journal of Modern Optics, 2011, 58\allowbreak (2): 87-124.
+
+\bibitem[Abdolvand et~al.(2009)Abdolvand, Nazarkin, Chugreev, Kaminski, and
+  Russell]{abdolvandSolitaryPulseGeneration2009}
+ABDOLVAND A, NAZARKIN A, CHUGREEV A~V, et~al.
+\newblock Solitary pulse generation by backward raman scattering in {{H}}
+  2-filled photonic crystal fibers\allowbreak[J].
+\newblock Physical review letters, 2009, 103\allowbreak (18): 183902.
+
+\bibitem[Nazarkin et~al.(2010)Nazarkin, Abdolvand, Chugreev, and
+  Russell]{nazarkinDirectObservationSelfsimilarity2010}
+NAZARKIN A, ABDOLVAND A, CHUGREEV A~V, et~al.
+\newblock Direct observation of self-similarity in evolution of transient
+  stimulated raman scattering in gas-filled photonic crystal
+  fibers\allowbreak[J].
+\newblock Physical review letters, 2010, 105\allowbreak (17): 173902.
+
+\bibitem[Londero et~al.(2009)Londero, Venkataraman, Bhagwat, Slepkov, and
+  Gaeta]{londeroUltralowpowerFourwaveMixing2009}
+LONDERO P, VENKATARAMAN V, BHAGWAT A~R, et~al.
+\newblock Ultralow-power four-wave mixing with rb in a hollow-core photonic
+  band-gap fiber\allowbreak[J].
+\newblock Physical review letters, 2009, 103\allowbreak (4): 043602.
+
+\bibitem[Ghosh et~al.(2005)Ghosh, Sharping, Ouzounov, and
+  Gaeta]{ghoshResonantOpticalInteractions2005}
+GHOSH S, SHARPING J~E, OUZOUNOV D~G, et~al.
+\newblock Resonant optical interactions with molecules confined in photonic
+  band-gap fibers\allowbreak[J].
+\newblock Physical review letters, 2005, 94\allowbreak (9): 093902.
+
+\bibitem[Ouzounov et~al.(2003)Ouzounov, Ahmad, Muller, Venkataraman, Gallagher,
+  Thomas, Silcox, Koch, and Gaeta]{ouzounovGenerationMegawattOptical2003}
+OUZOUNOV D~G, AHMAD F~R, MULLER D, et~al.
+\newblock Generation of megawatt optical solitons in hollow-core photonic
+  band-gap fibers\allowbreak[J].
+\newblock Science, 2003, 301\allowbreak (5640): 1702-1704.
+
+\bibitem[Benabid et~al.(2002)Benabid, Knight, and
+  Russell]{benabidParticleLevitationGuidance2002}
+BENABID F, KNIGHT J~C, RUSSELL P~S~J.
+\newblock Particle levitation and guidance in hollow-core photonic crystal
+  fiber\allowbreak[J].
+\newblock Optics express, 2002, 10\allowbreak (21): 1195-1203.
+
+\bibitem[Roberts et~al.(2005)Roberts, Couny, Sabert, Mangan, Williams, Farr,
+  Mason, Tomlinson, Birks, Knight, and St.
+  J.~Russell]{robertsUltimateLowLoss2005}
+ROBERTS P~J, COUNY F, SABERT H, et~al.
+\newblock Ultimate low loss of hollow-core photonic crystal
+  fibres\allowbreak[J/OL].
+\newblock Optics Express, 2005, 13\allowbreak (1): 236.
+\newblock DOI: \doi{10.1364/OPEX.13.000236}.
+
+\bibitem[Benabid et~al.(2004)Benabid, Bouwmans, Knight, Russell, and
+  Couny]{benabidUltrahighEfficiencyLaser2004}
+BENABID F, BOUWMANS G, KNIGHT J~C, et~al.
+\newblock Ultrahigh efficiency laser wavelength conversion in a gas-filled
+  hollow core photonic crystal fiber by pure stimulated rotational raman
+  scattering in molecular hydrogen\allowbreak[J/OL].
+\newblock Physical Review Letters, 2004, 93\allowbreak (12): 123903.
+\newblock DOI: \doi{10.1103/PhysRevLett.93.123903}.
+
+\bibitem[Nold et~al.(2010)Nold, H{\"o}lzer, Joly, Wong, Nazarkin, Podlipensky,
+  Scharrer, and Russell]{noldPressurecontrolledPhaseMatching2010}
+NOLD J, H{\"O}LZER P, JOLY N~Y, et~al.
+\newblock Pressure-controlled phase matching to third harmonic in ar-filled
+  hollow-core photonic crystal fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2010, 35\allowbreak (17): 2922.
+\newblock DOI: \doi{10.1364/OL.35.002922}.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright {{Spatially Coherent Wavelength-Tunable Deep-UV Laser Source
+  Using}} an {{Ar-Filled Photonic Crystal Fiber}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[Lehmeier et~al.(1985)Lehmeier, Leupacher, and
+  Penzkofer]{lehmeierNonresonantThirdOrder1985}
+LEHMEIER H, LEUPACHER W, PENZKOFER A.
+\newblock Nonresonant third order hyperpolarizability of rare gases and {{N2}}
+  determined by third harmonic generation\allowbreak[J/OL].
+\newblock Optics Communications, 1985, 56\allowbreak (1): 67-72.
+\newblock DOI: \doi{10.1016/0030-4018(85)90069-0}.
+
+\bibitem[Ishaaya et~al.(2009)Ishaaya, Hensley, Shim, Schrauth, Koch, and
+  Gaeta]{ishaayaHighlyefficientCouplingLinearly2009}
+ISHAAYA A~A, HENSLEY C~J, SHIM B, et~al.
+\newblock Highly-efficient coupling of linearly- and radially-polarized
+  femtosecond pulses in hollow-core photonic band-gap fibers\allowbreak[J/OL].
+\newblock Optics Express, 2009, 17\allowbreak (21): 18630.
+\newblock DOI: \doi{10.1364/OE.17.018630}.
+
+\end{thebibliography}

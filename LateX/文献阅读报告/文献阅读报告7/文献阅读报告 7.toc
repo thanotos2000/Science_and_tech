@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}HC-PCF 的特性}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}充气 Kagomé HC-PCF 的色散和损失}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}充气 Kagomé PCF 的非线性}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Kagomé HC-PCF 的能量处理能力}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Kagomé PCF 中的超快非线性动力学}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}色散和非线性的相互作用}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}孤子的能量缩放：对色散情形的依赖}{6}{subsection.3.2}%
+\contentsline {section}{参考文献}{9}{section*.2}%

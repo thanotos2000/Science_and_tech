@@ -1,0 +1,316 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Stanfield et~al.(2021)Stanfield, Beier, Hakimi, Allison, Farinella,
+  Hussein, Tajima, and Dollar]{stanfieldMillijouleFewcyclePulses2021}
+STANFIELD M, BEIER N~F, HAKIMI S, et~al.
+\newblock Millijoule few-cycle pulses from staged compression for strong and
+  high field science\allowbreak[J/OL].
+\newblock Optics Express, 2021, 29\allowbreak (6): 9123.
+\newblock DOI: \doi{10.1364/OE.417404}.
+
+\bibitem[Yoon et~al.(2019)Yoon, Jeon, Shin, Lee, Lee, Choi, Kim, Sung, and
+  Nam]{yoonAchievingLaserIntensity2019}
+YOON J~W, JEON C, SHIN J, et~al.
+\newblock Achieving the laser intensity of 55{\texttimes}10
+  {\textsuperscript{22}} {{W}}/cm {\textsuperscript{2}} with a
+  wavefront-corrected multi-{{PW}} laser\allowbreak[J/OL].
+\newblock Optics Express, 2019, 27\allowbreak (15): 20412.
+\newblock DOI: \doi{10.1364/OE.27.020412}.
+
+\bibitem[Albert et~al.(2010)Albert, Anderson, Gibson, Hagmann, Johnson,
+  Messerly, Semenov, Shverdin, Rusnak, Tremaine, Hartemann, Siders, McNabb, and
+  Barty]{albertCharacterizationApplicationsTunable2010}
+ALBERT F, ANDERSON S~G, GIBSON D~J, et~al.
+\newblock Characterization and applications of a tunable, laser-based,
+  {{MeV-class}} compton-scattering {$\gamma$} -ray source\allowbreak[J/OL].
+\newblock Physical Review Special Topics - Accelerators and Beams, 2010,
+  13\allowbreak (7): 70704.
+\newblock DOI: \doi{10.1103/PhysRevSTAB.13.070704}.
+
+\bibitem[Chen et~al.(2013)Chen, Powers, Ghebregziabher, Maharjan, Liu, Golovin,
+  Banerjee, Zhang, Cunningham, Moorti, Clarke, Pozzi, and
+  Umstadter]{chenMeVenergyRaysInverse2013}
+CHEN S, POWERS N~D, GHEBREGZIABHER I, et~al.
+\newblock {{MeV-energy X}} rays from inverse compton scattering with
+  laser-wakefield accelerated electrons\allowbreak[J/OL].
+\newblock Physical Review Letters, 2013, 110\allowbreak (15): 155003.
+\newblock DOI: \doi{10.1103/PhysRevLett.110.155003}.
+
+\bibitem[Zhou et~al.(2016)Zhou, Yan, Mourou, Wheeler, Bin, Schreiber, and
+  Tajima]{zhouProtonAccelerationSinglecycle2016}
+ZHOU M~L, YAN X~Q, MOUROU G, et~al.
+\newblock Proton acceleration by single-cycle laser pulses offers a novel
+  monoenergetic and stable operating regime\allowbreak[J/OL].
+\newblock Physics of Plasmas, 2016, 23\allowbreak (4): 43112.
+\newblock DOI: \doi{10.1063/1.4947544}.
+
+\bibitem[Gu{\'e}not et~al.(2017)Gu{\'e}not, Gustas, Vernier, Beaurepaire,
+  B{\"o}hle, Bocoum, Lozano, Jullien, {Lopez-Martens}, Lifschitz, and
+  Faure]{guenotRelativisticElectronBeams2017}
+GU{\'E}NOT D, GUSTAS D, VERNIER A, et~al.
+\newblock Relativistic electron beams driven by {{kHz}} single-cycle light
+  pulses\allowbreak[J/OL].
+\newblock Nature Photonics, 2017, 11\allowbreak (5): 293-296.
+\newblock DOI: \doi{10.1038/nphoton.2017.46}.
+
+\bibitem[Gustas et~al.(2018)Gustas, Gu{\'e}not, Vernier, Dutt, B{\"o}hle,
+  {Lopez-Martens}, Lifschitz, and
+  Faure]{gustasHighchargeRelativisticElectron2018}
+GUSTAS D, GU{\'E}NOT D, VERNIER A, et~al.
+\newblock High-charge relativistic electron bunches from a {{kHz}} laser-plasma
+  accelerator\allowbreak[J/OL].
+\newblock Physical Review Accelerators and Beams, 2018, 21\allowbreak (1):
+  013401.
+\newblock DOI: \doi{10.1103/PhysRevAccelBeams.21.013401}.
+
+\bibitem[Beaurepaire et~al.(2014)Beaurepaire, Lifschitz, and
+  Faure]{beaurepaireElectronAccelerationSubrelativistic2014}
+BEAUREPAIRE B, LIFSCHITZ A, FAURE J.
+\newblock Electron acceleration in sub-relativistic wakefields driven by
+  few-cycle laser pulses\allowbreak[J/OL].
+\newblock New Journal of Physics, 2014, 16\allowbreak (2): 023023.
+\newblock DOI: \doi{10.1088/1367-2630/16/2/023023}.
+
+\bibitem[Ouill{\'e} et~al.(2020)Ouill{\'e}, Vernier, B{\"o}hle, Bocoum,
+  Jullien, Lozano, Rousseau, Cheng, Gustas, Blumenstein, Simon, Haessler,
+  Faure, Nagy, and
+  {Lopez-Martens}]{ouilleRelativisticintensityNearsinglecycleLight2020}
+OUILL{\'E} M, VERNIER A, B{\"O}HLE F, et~al.
+\newblock Relativistic-intensity near-single-cycle light waveforms at {{kHz}}
+  repetition rate\allowbreak[J/OL].
+\newblock Light: Science \& Applications, 2020, 9\allowbreak (1): 47.
+\newblock DOI: \doi{10.1038/s41377-020-0280-5}.
+
+\bibitem[Naumova et~al.(2004)Naumova, Nees, Sokolov, Hou, and
+  Mourou]{naumovaRelativisticGenerationIsolated2004}
+NAUMOVA N~M, NEES J~A, SOKOLOV I~V, et~al.
+\newblock Relativistic generation of isolated attosecond pulses in a
+  {$\lambda$} 3 focal volume\allowbreak[J/OL].
+\newblock Physical Review Letters, 2004, 92\allowbreak (6): 063902.
+\newblock DOI: \doi{10.1103/PhysRevLett.92.063902}.
+
+\bibitem[Heissler et~al.(2012)Heissler, H{\"o}rlein, Mikhailova, Waldecker,
+  Tzallas, Buck, Schmid, Sears, Krausz, Veisz, Zepf, and
+  Tsakiris]{heisslerFewcycleDrivenRelativistically2012}
+HEISSLER P, H{\"O}RLEIN R, MIKHAILOVA J~M, et~al.
+\newblock Few-cycle driven relativistically oscillating plasma mirrors: {{A}}
+  source of intense isolated attosecond pulses\allowbreak[J/OL].
+\newblock Physical Review Letters, 2012, 108\allowbreak (23): 235003.
+\newblock DOI: \doi{10.1103/PhysRevLett.108.235003}.
+
+\bibitem[Mak et~al.(1990)Mak, Soms, Fromzel, and Iashin]{makNdglassLasers1990}
+MAK A~A, SOMS L~N, FROMZEL V~A, et~al.
+\newblock Nd-glass lasers\allowbreak[J].
+\newblock Moscow Izdatel Nauka, 1990.
+
+\bibitem[Ueffing et~al.(2018)Ueffing, Reiger, Kaumanns, Pervak, Trubetskov,
+  Nubbemeyer, and Krausz]{ueffingNonlinearPulseCompression2018}
+UEFFING M, REIGER S, KAUMANNS M, et~al.
+\newblock Nonlinear pulse compression in a gas-filled multipass
+  cell\allowbreak[J/OL].
+\newblock Optics Letters, 2018, 43\allowbreak (9): 2070.
+\newblock DOI: \doi{10.1364/OL.43.002070}.
+
+\bibitem[M{\'e}vel et~al.(2003)M{\'e}vel, Tcherbakoff, Salin, and
+  Constant]{mevelExtracavityCompressionTechnique2003}
+M{\'E}VEL E, TCHERBAKOFF O, SALIN F, et~al.
+\newblock Extracavity compression technique for high-energy femtosecond
+  pulses\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2003, 20\allowbreak (1):
+  105.
+\newblock DOI: \doi{10.1364/JOSAB.20.000105}.
+
+\bibitem[Hemmer et~al.(2013)Hemmer, Baudisch, Thai, Couairon, and
+  Biegert]{hemmerSelfcompressionSub3cycleDuration2013}
+HEMMER M, BAUDISCH M, THAI A, et~al.
+\newblock Self-compression to sub-3-cycle duration of mid-infrared optical
+  pulses in dielectrics\allowbreak[J/OL].
+\newblock Optics Express, 2013, 21\allowbreak (23): 28095.
+\newblock DOI: \doi{10.1364/OE.21.028095}.
+
+\bibitem[Seidel et~al.(2016)Seidel, Arisholm, Brons, Pervak, and
+  Pronin]{seidelAllSolidstateSpectral2016}
+SEIDEL M, ARISHOLM G, BRONS J, et~al.
+\newblock All solid-state spectral broadening: {{An}} average and peak power
+  scalable method for compression of ultrashort pulses\allowbreak[J/OL].
+\newblock Optics express, 2016, 24\allowbreak (9): 9412-9428.
+\newblock DOI: \doi{10.1364/OE.24.009412}.
+
+\bibitem[Nagy et~al.(2019)Nagy, H{\"a}drich, Simon, Blumenstein, Walther, Klas,
+  Buldt, Stark, Breitkopf, J{\'o}j{\'a}rt, Seres, V{\'a}rallyay, Eidam, and
+  Limpert]{nagyGenerationThreecycleMultimillijoule2019}
+NAGY T, H{\"A}DRICH S, SIMON P, et~al.
+\newblock Generation of three-cycle multi-millijoule laser pulses at 318 {{W}}
+  average power\allowbreak[J/OL].
+\newblock Optica, 2019, 6\allowbreak (11): 1423.
+\newblock DOI: \doi{10.1364/OPTICA.6.001423}.
+
+\bibitem[Nagy et~al.(2020)Nagy, Kretschmar, Vrakking, and
+  Rouz{\'e}e]{nagyGenerationAboveterawatt5cycle2020}
+NAGY T, KRETSCHMAR M, VRAKKING M~J~J, et~al.
+\newblock Generation of above-terawatt 1.5-cycle visible pulses at 1 {{kHz}} by
+  post-compression in a hollow fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2020, 45\allowbreak (12): 3313.
+\newblock DOI: \doi{10.1364/OL.395830}.
+
+\bibitem[Lu et~al.(2014)Lu, Tsou, Chen, Chen, Cheng, Yang, Chen, Hsu, and
+  Kung]{luGenerationIntenseSupercontinuum2014}
+LU C~H, TSOU Y~J, CHEN H~Y, et~al.
+\newblock Generation of intense supercontinuum in condensed
+  media\allowbreak[J/OL].
+\newblock Optica, 2014, 1\allowbreak (6): 400.
+\newblock DOI: \doi{10.1364/OPTICA.1.000400}.
+
+\bibitem[Lu et~al.(2018)Lu, Witting, Husakou, Vrakking, Kung, and
+  Furch]{luSub4FsLaser2018}
+LU C~H, WITTING T, HUSAKOU A, et~al.
+\newblock Sub-4 fs laser pulses at high average power and high repetition rate
+  from an all-solid-state setup\allowbreak[J/OL].
+\newblock Optics Express, 2018, 26\allowbreak (7): 8941.
+\newblock DOI: \doi{10.1364/OE.26.008941}.
+
+\bibitem[He et~al.(2017)He, Liu, Zhao, Teng, He, Huang, Huang, Zhong, Jiang,
+  Fang, Hou, and Wei]{heHighefficiencySupercontinuumGeneration2017}
+HE P, LIU Y, ZHAO K, et~al.
+\newblock High-efficiency supercontinuum generation in solid thin plates at 01
+  {{TW}} level\allowbreak[J/OL].
+\newblock Optics Letters, 2017, 42\allowbreak (3): 474.
+\newblock DOI: \doi{10.1364/OL.42.000474}.
+
+\bibitem[Masruri et~al.(2019)Masruri, Wheeler, Dancus, Fabbri, Naz{\^i}ru,
+  Secareanu, Ursescu, Cojocaru, Ungureanu, and
+  Farinella]{masruriOpticalThinFilm2019}
+MASRURI M, WHEELER J, DANCUS I, et~al.
+\newblock Optical thin film compression for laser induced plasma
+  diagnostics\allowbreak[C]//\allowbreak
+{{CLEO}}: {{Science}} and {{Innovations}}.
+\newblock Optica Publishing Group, 2019: SW4E-3.
+
+\bibitem[Mironov et~al.(2020)Mironov, Fourmaux, Lassonde, Ginzburg, Payeur,
+  Kieffer, Khazanov, and Mourou]{mironovThinPlateCompression2020}
+MIRONOV S~Y, FOURMAUX S, LASSONDE P, et~al.
+\newblock Thin plate compression of a sub-petawatt ti: {{Sa}} laser
+  pulses\allowbreak[J].
+\newblock Applied Physics Letters, 2020, 116\allowbreak (24).
+
+\bibitem[Khazanov et~al.(2019)Khazanov, Mironov, and
+  Mourou]{khazanovNonlinearCompressionHighpower2019}
+KHAZANOV E~A, MIRONOV S~Y, MOUROU G.
+\newblock Nonlinear compression of high-power laser pulses: Compression after
+  compressor approach\allowbreak[J/OL].
+\newblock Physics-Uspekhi, 2019, 62\allowbreak (11): 1096-1124.
+\newblock DOI: \doi{10.3367/UFNe.2019.05.038564}.
+
+\bibitem[Farinella et~al.(2019)Farinella, Wheeler, Hussein, Nees, Stanfield,
+  Beier, Ma, Cojocaru, Ungureanu, Pittman, Demailly, Baynard, Fabbri, Masruri,
+  Secareanu, Naziru, Dabu, Maksimchuk, Krushelnick, Ros, Mourou, Tajima, and
+  Dollar]{farinellaFocusabilityLaserPulses2019}
+FARINELLA D~M, WHEELER J, HUSSEIN A~E, et~al.
+\newblock Focusability of laser pulses at petawatt transport intensities in
+  thin-film compression\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2019, 36\allowbreak (2):
+  A28.
+\newblock DOI: \doi{10.1364/JOSAB.36.000A28}.
+
+\bibitem[Mironov et~al.(2017)Mironov, Wheeler, Gonin, Cojocaru, Ungureanu,
+  Banici, Serbanescu, Dabu, Mourou, and Khazanov]{mironov100JlevelPulse2017}
+MIRONOV S~Y, WHEELER J, GONIN R, et~al.
+\newblock 100 {{J-level}} pulse compression for peak power
+  enhancement\allowbreak[J/OL].
+\newblock Quantum Electronics, 2017, 47\allowbreak (3): 173-178.
+\newblock DOI: \doi{10.1070/QEL16307}.
+
+\bibitem[Ginzburg et~al.(2016)Ginzburg, Kochetkov, Yakovlev, Mironov, Shaykin,
+  and Khazanov]{ginzburgInfluenceCubicSpectral2016}
+GINZBURG V~N, KOCHETKOV A~A, YAKOVLEV I~V, et~al.
+\newblock Influence of the cubic spectral phase of high-power laser pulses on
+  their self-phase modulation\allowbreak[J/OL].
+\newblock Quantum Electronics, 2016, 46\allowbreak (2): 106-108.
+\newblock DOI: \doi{10.1070/QEL15936}.
+
+\bibitem[Mironov et~al.(2014)Mironov, Lassonde, Kieffer, Khazanov, and
+  Mourou]{mironovSpatiallyuniformTemporalRecompression2014}
+MIRONOV S, LASSONDE P, KIEFFER J~C, et~al.
+\newblock Spatially-uniform temporal recompression of intense femtosecond
+  optical pulses\allowbreak[J/OL].
+\newblock European Physical Journal Special Topics, 2014, 223\allowbreak (6):
+  1175-1180.
+\newblock DOI: \doi{10.1140/epjst/e2014-02170-6}.
+
+\bibitem[Mourou et~al.(2014)Mourou, Mironov, Khazanov, and
+  Sergeev]{mourouSingleCycleThin2014}
+MOUROU G, MIRONOV S, KHAZANOV E, et~al.
+\newblock Single cycle thin film compressor opening the door to
+  {{Zeptosecond-Exawatt}} physics\allowbreak[J/OL].
+\newblock The European Physical Journal Special Topics, 2014, 223\allowbreak
+  (6): 1181-1188.
+\newblock DOI: \doi{10.1140/epjst/e2014-02171-5}.
+
+\bibitem[Mourou et~al.(2014)Mourou, Cheriaux, and
+  Radier]{mourouDeviceGeneratingShort2014}
+MOUROU G, CHERIAUX G, RADIER C.
+\newblock Device for generating a short duration laser pulse\allowbreak[P].
+\newblock 2014.
+
+\bibitem[Ginzburg et~al.(2019)Ginzburg, Yakovlev, Zuev, Korobeynikova,
+  Kochetkov, Kuz'min, Mironov, Shaykin, Shaykin, and
+  Khazanov]{ginzburgCompressionCompressorThreefold2019}
+GINZBURG V~N, YAKOVLEV I~V, ZUEV A~S, et~al.
+\newblock Compression after compressor: {{Threefold}} shortening of 200-{{TW}}
+  laser pulses\allowbreak[J/OL].
+\newblock Quantum Electronics, 2019, 49\allowbreak (4): 299-301.
+\newblock DOI: \doi{10.1070/QEL17007}.
+
+\bibitem[Ginzburg et~al.(2020)Ginzburg, Yakovlev, Zuev, Korobeynikova,
+  Kochetkov, Kuzmin, Mironov, Shaykin, Shaikin, Khazanov, and
+  Mourou]{ginzburgFivefoldCompression250TW2020}
+GINZBURG V, YAKOVLEV I, ZUEV A, et~al.
+\newblock Fivefold compression of 250-{{TW}} laser pulses\allowbreak[J/OL].
+\newblock Physical Review A, 2020, 101\allowbreak (1): 013829.
+\newblock DOI: \doi{10.1103/PhysRevA.101.013829}.
+
+\bibitem[Farinella et~al.(2019)Farinella, Stanfield, Beier, Nguyen, Hakimi,
+  Tajima, Dollar, Wheeler, and Mourou]{farinellaDemonstrationThinFilm2019}
+FARINELLA D~M, STANFIELD M, BEIER N, et~al.
+\newblock Demonstration of thin film compression for short-pulse {{X-ray}}
+  generation\allowbreak[J/OL].
+\newblock International Journal of Modern Physics A, 2019, 34\allowbreak (34):
+  1943015.
+\newblock DOI: \doi{10.1142/S0217751X19430152}.
+
+\bibitem[Ginzburg et~al.(2020)Ginzburg, Yakovlev, Zuev, Korobeynikova,
+  Kochetkov, Kuzmin, Mironov, Shaykin, Shaikin, and
+  Khazanov]{ginzburgTwostageNonlinearCompression2020}
+GINZBURG V, YAKOVLEV I, ZUEV A, et~al.
+\newblock Two-stage nonlinear compression of high-power femtosecond laser
+  pulses\allowbreak[J/OL].
+\newblock Quantum Electronics, 2020, 50\allowbreak (4): 331-334.
+\newblock DOI: \doi{10.1070/QEL17282}.
+
+\bibitem[Mironov et~al.(2013)Mironov, Lozhkarev, Luchinin, Shaykin, and
+  Khazanov]{mironovSuppressionSmallscaleSelffocusing2013}
+MIRONOV S, LOZHKAREV V, LUCHININ G, et~al.
+\newblock Suppression of small-scale self-focusing of high-intensity
+  femtosecond radiation\allowbreak[J/OL].
+\newblock Applied Physics B, 2013, 113\allowbreak (1): 147-151.
+\newblock DOI: \doi{10.1007/s00340-013-5450-1}.
+
+\bibitem[Hult(2007)]{hultFourthorderRungeKutta2007}
+HULT J.
+\newblock A fourth-order runge--kutta in the interaction picture method for
+  simulating supercontinuum generation in optical fibers\allowbreak[J/OL].
+\newblock Journal of Lightwave Technology, 2007, 25\allowbreak (12): 3770-3775.
+\newblock DOI: \doi{10.1109/JLT.2007.909373}.
+
+\end{thebibliography}

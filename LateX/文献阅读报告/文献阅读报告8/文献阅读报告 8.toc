@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}脉冲压缩}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}光纤-光栅/啁啾镜压缩}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}设计实例}{1}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}孤子效应压缩}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}压缩比和品质因数缩放}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}较长脉冲的影响}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}绝热脉冲压缩}{3}{subsubsection.1.2.3}%
+\contentsline {section}{\numberline {2}紫外中色散波的产生}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}色散波的相位匹配}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}深紫外产生的效率}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}紫外超连续谱产生}{6}{subsection.2.3}%
+\contentsline {section}{参考文献}{7}{section*.2}%

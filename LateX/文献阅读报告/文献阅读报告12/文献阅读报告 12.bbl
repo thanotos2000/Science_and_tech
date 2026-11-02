@@ -1,0 +1,161 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Sidorenko et~al.(2019)Sidorenko, Fu, and
+  Wise]{sidorenkoNonlinearUltrafastFiber2019}
+SIDORENKO P, FU W, WISE F.
+\newblock Nonlinear ultrafast fiber amplifiers beyond the gain-narrowing
+  limit\allowbreak[J/OL].
+\newblock Optica, 2019, 6\allowbreak (10): 1328.
+\newblock DOI: \doi{10.1364/OPTICA.6.001328}.
+
+\bibitem[{Wei Zhao} et~al.(2014){Wei Zhao}, {Xiaohong Hu}, and {Yishan
+  Wang}]{weizhaoFemtosecondpulseFiberBased2014}
+{Wei Zhao}, {Xiaohong Hu}, {Yishan Wang}.
+\newblock Femtosecond-pulse fiber based amplification techniques and their
+  applications\allowbreak[J/OL].
+\newblock IEEE Journal of Selected Topics in Quantum Electronics, 2014,
+  20\allowbreak (5): 512-524.
+\newblock DOI: \doi{10.1109/JSTQE.2014.2308396}.
+
+\bibitem[Zhou et~al.(2005)Zhou, Kuznetsova, Chong, and
+  Wise]{zhouCompensationNonlinearPhase2005}
+ZHOU S, KUZNETSOVA L, CHONG A, et~al.
+\newblock Compensation of nonlinear phase shifts with third-order dispersion in
+  short-pulse fiber amplifiers\allowbreak[J/OL].
+\newblock Optics Express, 2005, 13\allowbreak (13): 4869.
+\newblock DOI: \doi{10.1364/OPEX.13.004869}.
+
+\bibitem[Zaouter et~al.(2008)Zaouter, Papadopoulos, Hanna, Boullet, Huang,
+  Aguergaray, Druon, Mottay, Georges, and
+  Cormier]{zaouterStretcherfreeHighEnergy2008}
+ZAOUTER Y, PAPADOPOULOS D~N, HANNA M, et~al.
+\newblock Stretcher-free high energy nonlinear amplification of femtosecond
+  pulses in rod-type fibers\allowbreak[J/OL].
+\newblock Optics Letters, 2008, 33\allowbreak (2): 107.
+\newblock DOI: \doi{10.1364/OL.33.000107}.
+
+\bibitem[Liu et~al.(2015)Liu, Schimpf, Eidam, Limpert, T{\"u}nnermann,
+  K{\"a}rtner, and Chang]{liuPrechirpManagedNonlinear2015}
+LIU W, SCHIMPF D~N, EIDAM T, et~al.
+\newblock Pre-chirp managed nonlinear amplification in fibers delivering 100
+  {{W}}, 60 fs pulses\allowbreak[J/OL].
+\newblock Optics Letters, 2015, 40\allowbreak (2): 151.
+\newblock DOI: \doi{10.1364/OL.40.000151}.
+
+\bibitem[Anderson et~al.(1993)Anderson, Desaix, Karlsson, Lisak, and
+  {Quiroga-Teixeiro}]{andersonWavebreakingfreePulsesNonlinearoptical1993}
+ANDERSON D, DESAIX M, KARLSSON M, et~al.
+\newblock Wave-breaking-free pulses in nonlinear-optical
+  fibers\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 1993, 10\allowbreak (7):
+  1185.
+\newblock DOI: \doi{10.1364/JOSAB.10.001185}.
+
+\bibitem[Kruglov et~al.(2000)Kruglov, Peacock, Dudley, and
+  Harvey]{kruglovSelfsimilarPropagationHighpower2000}
+KRUGLOV V~I, PEACOCK A~C, DUDLEY J~M, et~al.
+\newblock Self-similar propagation of high-power parabolic pulses in optical
+  fiber amplifiers\allowbreak[J/OL].
+\newblock Optics Letters, 2000, 25\allowbreak (24): 1753.
+\newblock DOI: \doi{10.1364/OL.25.001753}.
+
+\bibitem[Fermann et~al.(2000)Fermann, Kruglov, Thomsen, Dudley, and
+  Harvey]{fermannSelfsimilarPropagationAmplification2000}
+FERMANN M~E, KRUGLOV V~I, THOMSEN B~C, et~al.
+\newblock Self-similar propagation and amplification of parabolic pulses in
+  optical fibers\allowbreak[J/OL].
+\newblock Physical Review Letters, 2000, 84\allowbreak (26): 6010-6013.
+\newblock DOI: \doi{10.1103/PhysRevLett.84.6010}.
+
+\bibitem[Kruglov et~al.(2006)Kruglov and
+  Harvey]{kruglovAsymptoticallyExactParabolic2006}
+KRUGLOV V~I, HARVEY J~D.
+\newblock Asymptotically exact parabolic solutions of the generalized nonlinear
+  schr{\"o}dinger equation with varying parameters\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2006, 23\allowbreak
+  (12): 2541.
+\newblock DOI: \doi{10.1364/JOSAB.23.002541}.
+
+\bibitem[Denbaars et~al.(2022)Denbaars, Joyce, and
+  Jagadish]{denbaarsGuestEditorialIntroduction2022}
+DENBAARS S~P, JOYCE H~J, JAGADISH C.
+\newblock Guest editorial introduction to the special issue on semiconductor
+  optoelectronic materials and devices\allowbreak[J/OL].
+\newblock IEEE Journal of Quantum Electronics, 2022, 58\allowbreak (4): 1-2.
+\newblock DOI: \doi{10.1109/JQE.2022.3177219}.
+
+\bibitem[Lindberg et~al.(2016)Lindberg, Zeil, Malmstr{\"o}m, Laurell, and
+  Pasiskevicius]{lindbergAccurateModelingHighrepetition2016}
+LINDBERG R, ZEIL P, MALMSTR{\"O}M M, et~al.
+\newblock Accurate modeling of high-repetition rate ultrashort pulse
+  amplification in optical fibers\allowbreak[J/OL].
+\newblock Scientific Reports, 2016, 6\allowbreak (1): 34742.
+\newblock DOI: \doi{10.1038/srep34742}.
+
+\bibitem[Soh et~al.(2006)Soh, Nilsson, and
+  Grudinin]{sohEfficientFemtosecondPulse2006}
+SOH D~B, NILSSON J, GRUDININ A~B.
+\newblock Efficient femtosecond pulse generation using a parabolic amplifier
+  combined with a pulse compressor {{II}} finite gain-bandwidth
+  effect\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2006, 23\allowbreak (1):
+  10.
+\newblock DOI: \doi{10.1364/JOSAB.23.000010}.
+
+\bibitem[Peacock et~al.(2002)Peacock, Kruhlak, Harvey, and
+  Dudley]{peacockSolitaryPulsePropagation2002}
+PEACOCK A, KRUHLAK R, HARVEY J, et~al.
+\newblock Solitary pulse propagation in high gain optical fiber amplifiers with
+  normal group velocity dispersion\allowbreak[J/OL].
+\newblock Optics Communications, 2002, 206\allowbreak (1-3): 171-177.
+\newblock DOI: \doi{10.1016/S0030-4018(02)01382-2}.
+
+\bibitem[Feijoo~Perez(2016)]{feijooperezNewAspectsMatter2016}
+FEIJOO~PEREZ D.
+\newblock New aspects of matter and optical waves from the nonlinear
+  schr{\"o}dinguer equation\allowbreak[D].
+\newblock F{\'i}sica aplicada, 2016.
+
+\bibitem[Nelson et~al.(1983)Nelson, Cotter, Blow, and
+  Doran]{nelsonLargeNonlinearPulse1983}
+NELSON B, COTTER D, BLOW K, et~al.
+\newblock Large nonlinear pulse broadening in long lengths of monomode
+  fibre\allowbreak[J/OL].
+\newblock Optics Communications, 1983, 48\allowbreak (4): 292-294.
+\newblock DOI: \doi{10.1016/0030-4018(83)90218-3}.
+
+\bibitem[Kruglov et~al.(2012)Kruglov, Aguergaray, and
+  Harvey]{kruglovParabolicHypergaussianSimilaritons2012}
+KRUGLOV V~I, AGUERGARAY C, HARVEY J~D.
+\newblock Parabolic and hyper-gaussian similaritons in fiber amplifiers and
+  lasers with gain saturation\allowbreak[J/OL].
+\newblock Optics Express, 2012, 20\allowbreak (8): 8741.
+\newblock DOI: \doi{10.1364/OE.20.008741}.
+
+\bibitem[Chong et~al.(2007)Chong, Renninger, and
+  Wise]{chongAllnormaldispersionFemtosecondFiber2007}
+CHONG A, RENNINGER W~H, WISE F~W.
+\newblock All-normal-dispersion femtosecond fiber laser with pulse energy above
+  {{20nJ}}\allowbreak[J/OL].
+\newblock Optics Letters, 2007, 32\allowbreak (16): 2408.
+\newblock DOI: \doi{10.1364/OL.32.002408}.
+
+\bibitem[Tong et~al.(1997)Tong, Chan, and Tsang]{tongFibreDispersionPulse1997}
+TONG Y, CHAN L, TSANG H.
+\newblock Fibre dispersion or pulse spectrum measurement using a sampling
+  oscilloscope\allowbreak[J/OL].
+\newblock Electronics Letters, 1997, 33\allowbreak (11): 983.
+\newblock DOI: \doi{10.1049/el:19970663}.
+
+\end{thebibliography}

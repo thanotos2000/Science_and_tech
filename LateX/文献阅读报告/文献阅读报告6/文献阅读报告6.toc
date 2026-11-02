@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}MPC 数值计算\tmspace +\thickmuskip {.2777em}摘自综述文献\cite {hannaNonlinearOpticsMultipass2021}}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}MPC 脉冲压缩}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Numerical Simulation}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Numerical Model}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Test Case: Discrete Kerr Nonlinearity}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Nonlinear Compression in Gas-Filled MPCs}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Influence of Cavity Geometry on Space–Time Couplings}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}总结}{7}{section.3}%
+\contentsline {section}{参考文献}{8}{section*.2}%

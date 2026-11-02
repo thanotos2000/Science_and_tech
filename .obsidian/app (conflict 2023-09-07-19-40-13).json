@@ -1,0 +1,19 @@
+{
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "autoPairMarkdown": false,
+  "vimMode": false,
+  "newLinkFormat": "absolute"
+}

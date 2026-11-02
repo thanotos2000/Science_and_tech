@@ -1,0 +1,320 @@
+\documentclass[14pt,a4paper,oneside]{article}
+
+\usepackage[utf8]{inputenc}   
+
+
+\usepackage{amsmath,amsthm,amssymb,appendix,bm,mathrsfs,ctex,geometry,tcolorbox,fancyhdr,tikz,esint,appendix}
+
+\usepackage{esint}
+
+
+%% GB/T 7714 宏包 ---- 引文格式
+\usepackage[sort&compress]{gbt7714}
+\bibliographystyle{gbt7714-numerical}
+
+
+
+\numberwithin{equation}{subsection}             %%%%%% 公式编号
+
+
+
+
+\geometry{left=1.7cm, right=1.7cm, top=2.54cm, bottom=2.54cm}    %%%%% 页面尺寸
+\linespread{1.5}                             %%%%% 行距1.5倍
+\pagestyle{fancy}
+
+
+
+%%    设置页眉页脚
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.15mm}
+\fancyhead[C]{读书笔记}                   %%%%%% 页眉
+\fancyfoot[C]{\thepage}                      %%%%%% 页脚 页码
+\setlength{\headheight}{15pt}
+
+
+%%   设置各种链接颜色为黑色
+\usepackage[colorlinks,
+            linkcolor=black,
+            anchorcolor=black,
+            citecolor=black,
+            urlcolor=blue
+            ]{hyperref}
+
+
+
+%%   例子编号
+\newcounter{example}
+\counterwithin{example}{subsection}
+\newcommand{\examplename}{Example}
+\newcommand{\exampleTitle}[1]{%
+\textbf{\refstepcounter{example}\examplename\theexample:#1}\par}
+
+
+%%  插入图片配置
+\usepackage{graphicx,subfigure}
+\usepackage[]{caption2} %新增调用的宏包
+% \numberwithin{figure}{section}               %%%%%% 图片编号按节
+
+\graphicspath{ {./Figure/} }            %%%%% 设置图片文件所在目录
+\DeclareGraphicsExtensions{.pdf,.svg,.jpeg,.png,.jpg}     %%%%% 支持图片格式
+
+
+%%    支持tikz作图
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,arrows}
+
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+
+
+\title{\textbf{Solitons, Nonlinear Evolution Equations and Inverse Scattering}}                           %%%%% 标题
+\author{骆禹天}                                           %%%%% 作者
+\date{\today}                                        %%%%%% 日期
+
+%%   定义一些数学格式
+\newtheorem{theorem}{定理}[]
+\newtheorem{definition}[theorem]{定义}
+\newtheorem{lemma}[theorem]{引理}
+\newtheorem{corollary}[theorem]{推论}
+\newtheorem{example}[theorem]{例}
+\newtheorem{proposition}[theorem]{命题}
+\renewcommand{\abstractname}{\Large\textbf{摘要}}
+
+
+
+
+%------------------------- 开始文档  -------------------------%
+
+
+
+\begin{document}
+
+\pagenumbering{Roman}         %%%%% 目录前页码统计按罗马数字
+
+\maketitle
+
+\setcounter{page}{1}          %%%%% 标题开始统计页数
+
+
+
+%------------------------- 目录  ------------------------------%
+
+\tableofcontents              %%%%% 插入目录
+
+\newpage
+\setcounter{page}{1}          %%%%% 目录后重新统计页数
+
+
+\pagenumbering{arabic}        %%%%% 目录后统计页码为阿拉伯数字
+
+
+
+%%%%%%%%%%%%%%%%%%%% 开始第一节  %%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}
+
+\subsection{历史}
+
+1834年, Russell 观察到了孤子现象:
+1. 他观察到孤立波, 这是一种长而浅的永久形式的水波, 因此他推断出它们的存在; 这是他最重要的成果;  
+2. 孤立波在深度 $h$ 均匀的通道中的传播速度 $c$ 由以下公式给出: $c^2 = g(h +\eta )$, 其中, $\eta$ 是波的振幅, $g$ 是重力. 
+
+
+Korteweg-de Vries (KdV) 方程
+
+控制在浅水通道中传播的长一维、小振幅、表面重力波的非线性演化方程
+\begin{equation}
+   \frac{\partial\eta}{\partial\tau}=\frac32\sqrt{\frac gh}\frac\partial{\partial\xi}\left(\frac12\eta^2+\frac23\alpha\eta+\frac13\sigma\frac{\partial^2\eta}{\partial\xi^2}\right),\quad\sigma=\frac13h^3-Th/(\rho g)
+   \label{eq:1.1.1}
+\end{equation}
+其中,
+· $\eta$ 是波在平衡水平 $h$ 之上的表面高度, 
+
+· $a$ 是与液体匀速运动相关的任意小常数, 
+
+· $g$ 是引力常数, 
+
+· $T$ 是表面张力, 
+
+· $\rho$ 是密度
+
+·  (术语“长”和“小”是指与通道的深度相比) . 
+
+方程\ref{eq:1.1.1}可以通过变换
+\begin{equation}
+    t=\frac{\mathrm{l}}2\sqrt{g/(h\sigma)}\:\tau,\quad x=-\sigma^{-1/2}\xi,\quad u=\frac{\mathrm{l}}2\eta+\frac{\mathrm{l}}3\alpha 
+    \label{eq:1.1.2}
+\end{equation}
+
+转化为无量纲形式
+\begin{equation}
+    u_t+6uu_x+u_{xxx}=0
+    \label{eq:1.1.3}
+\end{equation}
+
+其中, 下标表示偏微分.
+
+KdV 方程具有孤立波解:
+\begin{equation}
+    u(x,t)=2\kappa^2\sinh^2\left\{\kappa(x-4\kappa^2t-x_0)\right\}
+    \label{eq:1.1.4}
+\end{equation}
+
+罗素观测到的孤子是小振幅表面波. 已经有多项研究检验了 KdV 方程 (\ref{eq:1.1.2}) 作为小振幅水波在浅水中沿一个方向传播时的演化模型的有效性.
+
+在许多物理情况下, 由于稳定​​分层流体中的重力效应, 内波可能会在两层流体的界面处产生. 存在几种控制稳定分层流体中小振幅长内波演化的理论模型, 包括 KdV 方程 (\ref{eq:1.1.2})、中长波 (ILW) 方程
+\begin{equation}
+    u_t+\delta^{-1}u_x+2uu_x+\mathrm{T}u_{xx}=0
+    \label{eq:1.1.5}
+\end{equation}
+其中, $Tu$ 是奇异积分算子.
+\begin{equation}
+    (\text{T}f)(x)=\frac1{2\delta}\fint_{-\infty}^\infty\coth\left\{\frac\pi{2\delta}(y-x)\right\}f(y)\:\mathrm{d}y
+    \label{eq:1.1.6}
+\end{equation}
+这里, $\fint_{-\infty}^\infty$ 表示柯西主值积分.
+
+还有 Benjamin-Ono (BO) equation:
+\begin{equation}
+    u_t+2uu_x+\text{H}u_{xx}=0
+    \label{eq:1.1.7}
+\end{equation}
+其中, $Hu$ 是希尔伯特变换:
+\begin{equation}
+    (\text{H}f)(x)=\frac1\pi\fint_{-\infty}^\infty\frac{f(y)}{y-x}\mathrm{~d}y
+    \label{eq:1.1.8}
+\end{equation}
+
+在浅水极限处, $\delta \rightarrow 0$, 化为 KdV 方程:
+\begin{equation}
+    u_t+2uu_x+\frac13\delta u_{xxx}=0
+    \label{eq:1.1.9}
+\end{equation}
+
+深水极限下, $\delta \rightarrow 0$, 得到 BO 方程, 因此, ILW 方程 (\ref{eq:1.1.5})可以被认为是(\ref{eq:1.1.3})和(\ref{eq:1.1.7})之间的中间方程.
+
+考虑两种不可压缩、不混溶的流体, 其密度和深度为 $h_1, h_2 (h := h_1 + h_2)$, 在恒定引力场中, 高度为 $h_1$ 的较轻流体位于高度为 $h_2$ 的较重流体之上. 下部流体位于水平不渗透床上, 上部流体以自由表面为界. 
+
+假设特征波振幅用a表示, 特征波长用$\lambda =k^{-1}$表示. 
+
+作为内波模型, 推导 KdV 方程 (\ref{eq:1.1.3}) 、ILW 方程 (\ref{eq:1.1.5}) 和 BO 方程 (\ref{eq:1.1.7}) 的基本假设是:
+
+1. \underline{Korteweg de-Vries equation}:
+
+(A1) 与总深度相比, 波浪是长波, $kh \ll 1$; 
+
+(A2) 波的振幅较小, $\epsilon  = a/h \ll 1$; 
+
+(A3) 两个效应(A1)和(A2)大致平衡, 即$kh = O(\epsilon )$; 
+
+(A4) 粘性效应可以忽略不计. 
+
+2. \underline{Intermediate-Long-Wave equation}:
+
+(B1) 有一个薄 (上) 层, $\epsilon  = h_1/h_2 \ll 1$; 
+
+(B2) 波的振幅小, $a \ll h1$;
+
+(B3) 两个效应(B1)和(B2)平衡, 即$a/h_1 = 0(\epsilon )$; 
+
+(B4) 特征波长与流体总深度相当, $kh = O(1)$; 
+
+(B5) 与薄层相比, 波是长波, $kh_1 \ll 1$ [这由 (B1) 和 (B4) 暗示]
+
+(B6) 粘性效应可以忽略不计. 
+
+3. \underline{Benjamin-Ono equation}:
+
+(Cl)有一个薄(上)层, $h_1 \ll h_2$;   
+
+(C2) 与薄层相比, 波是长波, $kh_1 \ll 1$;   
+
+(C3) 与流体的总深度相比, 波较短, $kh \gg 1$;  
+
+(C4)波的振幅较小, $a\ll h_1$;
+
+(C5) 粘性效应可以忽略不计. 
+
+Note:
+
+KdV方程（\ref{eq:1.1.3}）可以描述小振幅水波在浅水中传播时的演化; 所描述的演化是弱非线性和弱色散的, 其中这些效应具有相同的量级。这些孤立波通常被认为是在均匀的矩形通道中传播。对于不同宽度、深度或形状的通道中的准一维孤立波问题, 已经有多项研究（综述参见 Miles [1980b] 和其中引用的参考文献）。
+
+KdV 方程作为水波实用模型应用的另一个限制是 KdV 方程严格来说只是一维（即一个空间维度加时间）, 而表面是二维的。 KdV 方程的二维推广是 Kadomtsev-Petviashvili (KP) 方程
+\begin{equation}
+    (u_t+6uu_x+u_{xxx})_x+3\sigma^2u_{yy}=0
+    \label{eq:1.1.10}
+\end{equation}
+其中, $\sigma^2 = \pm1$（Kadomtsev 和 Petviashvili [1970]）。
+
+KP方程描述的演化是弱非线性、弱色散和弱二维的, 所有三种效应都具有相同的阶数; 符号的选择取决于重力和表面张力的相关大小（参见§1.2）。 KP 方程也被提议作为不同深度和宽度的海峡或通道中的表面波和内波模型（例如, 参见 Santini [1981]; David、Levi 和 Winternitz [1987a, 1989]）。
+
+%--------------------  插入参考文献  --------------------%
+
+\subsection{KPhysical Derivation of the KP Equation}
+
+水波的经典问题是寻找无粘性、不可压缩、均质流体在恒定引力 g 作用下的无旋运动. 流体停留在 z = -h 处无限范围的水平且不可渗透的床上, 并在 z = y(x, y, t) 处具有自由表面. 由于流体是无旋且不可压缩的, 因此它的速度势$\phi$ 满足:
+\begin{equation}
+    \nabla^2\phi=0,\quad-h<z<\eta(x,y,t)
+    \label{eq:1.2.1}
+\end{equation}
+
+受底部边界条件 z = -h
+\begin{equation}
+    \phi_{z}=0
+    \label{eq:1.2.2}
+\end{equation}
+
+（因为床是不渗透的）, 并且在自由表面 $z=\eta$ 有动理学条件:
+\begin{equation}
+    \frac{\mathrm{D}\eta}{\mathrm{D}t}\equiv\eta_t+\phi_x\eta_x+\phi_y\eta_y=\phi_z
+    \label{eq:1.2.3}
+\end{equation}
+
+以及动力学条件:
+\begin{equation}
+    \phi_t+g\eta+\frac12|\nabla\phi|^2=\frac T\rho\frac{\eta_{xx}(1+\eta_y^2)+\eta_{yy}(1+\eta_x^2)-2\eta_{xy}\eta_x\eta_y}{(1+\eta_x^2+\eta_y^2)^{3/2}}
+    \label{eq:1.2.4}
+\end{equation}
+其中 $T$ 是表面张力, $\rho$ 是流体的密度。
+
+求解还需要 (x, y) 中的边界条件和初始条件。
+
+对于孤立波, 当 $(x^2 + y^2) \rightarrow  \infty$, $\nabla \phi$ 和 $\eta$ 应消失。 
+
+该问题首先由 Stokes [1847] 提出, 是非局域的、高度非线性的, 并且其一般形式仍然没有得到解决。为取得进一步进展, 我们需要对方程（\ref{eq:1.2.1}）的解添加额外的假设。
+
+受限假设波的幅应当很小。如果我们将这种小诠释为无穷小, 那么可将方程由 $\nabla \phi  = 0, \eta = 0$ 进行线性化, 并寻求形式为 $\exp{i(kx + my - \omega t) }$ 的线性组合的线性化方程的解（参见 Lamb [1932, §§228,266,267]）。结果是线性化色散关系
+\begin{equation}
+    \omega^2=(g\kappa+\kappa^3T/\rho)\tanh(\kappa h)
+    \label{eq:1.2.5}
+\end{equation}
+其中, $\kappa^2:=k^2+m^2$.
+
+由此计算群速度并表明线性化问题在大多数波数处是色散的, 但不是 $\kappa \rightarrow  0$（即长波或浅水波）, 此时它仅是弱色散的。 
+
+KdV 和 KP 方程正式作为这种弱色散极限 $Kh\ll1$ 下的水波问题模型而出现。
+
+我们确定水平坐标的方向, 使 x 方向成为波传播的主要方向。为了推导 KP 方程（1.1.7）, 我们假设: 
+
+1.波的振幅小, $\epsilon =|\eta|_{\mathrm{max}}/h \ll 1$;  
+
+2. 相对于典型水平波长, 水较浅, $(\kappa h)^2 \ll 1$;  
+
+3. 波几乎是一维的, $(m/k)^2 \ll 1$;  
+
+4. 这三个效应都具有相当的影响力（即它们平衡）, $(m/k)^2 = O((\kappa h)^2) = O(\epsilon )$. 
+
+
+
+\newpage
+
+\clearpage           %%%  “目录”中显示的页码正确, 需要添加 \clearpage
+\phantomsection      %%   “目录”中的链接能正确跳转, 需要添加 \phantomsection
+\addcontentsline{toc}{section}{参考文献}   %向目录中添加条目, 以章的名义
+
+\bibliography{ref}
+
+\end{document}

@@ -1,0 +1,105 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Lehmeier et~al.(1985)Lehmeier, Leupacher, and
+  Penzkofer]{lehmeierNonresonantThirdOrder1985}
+LEHMEIER H, LEUPACHER W, PENZKOFER A.
+\newblock Nonresonant third order hyperpolarizability of rare gases and {{N2}}
+  determined by third harmonic generation\allowbreak[J/OL].
+\newblock Optics Communications, 1985, 56\allowbreak (1): 67-72.
+\newblock DOI: \doi{10.1016/0030-4018(85)90069-0}.
+
+\bibitem[Mosley et~al.(2010)Mosley, Huang, Welch, Mangan, Wadsworth, and
+  Knight]{mosleyUltrashortPulseCompression2010}
+MOSLEY P~J, HUANG W~C, WELCH M~G, et~al.
+\newblock Ultrashort pulse compression and delivery in a hollow-core photonic
+  crystal fiber at 540 nm wavelength\allowbreak[J/OL].
+\newblock Optics Letters, 2010, 35\allowbreak (21): 3589.
+\newblock DOI: \doi{10.1364/OL.35.003589}.
+
+\bibitem[Dianov et~al.(1986)Dianov, Nikonova, Prokhorov, and
+  Serkin]{dianovOptimalCompressionMultisoliton1986}
+DIANOV E~M, NIKONOVA Z~S, PROKHOROV A~M, et~al.
+\newblock Optimal compression of multi-soliton pulses in optical
+  fibers\allowbreak[J].
+\newblock Sov. Tech. Phys. Lett, 1986, 12\allowbreak (6): 311-313.
+
+\bibitem[Kuehl(1988)]{kuehlSolitonsAxiallyNonuniform1988}
+KUEHL H~H.
+\newblock Solitons on an axially nonuniform optical fiber\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 1988, 5\allowbreak (3):
+  709.
+\newblock DOI: \doi{10.1364/JOSAB.5.000709}.
+
+\bibitem[Travers et~al.(2007)Travers, Stone, Rulkov, Cumberland, George, Popov,
+  Knight, and Taylor]{traversOpticalPulseCompression2007}
+TRAVERS J~C, STONE J~M, RULKOV A~B, et~al.
+\newblock Optical pulse compression in dispersion decreasing photonic crystal
+  fiber\allowbreak[J/OL].
+\newblock Optics Express, 2007, 15\allowbreak (20): 13203.
+\newblock DOI: \doi{10.1364/OE.15.013203}.
+
+\bibitem[G{\'e}r{\^o}me et~al.(2007)G{\'e}r{\^o}me, Cook, George, Wadsworth,
+  and Knight]{geromeDeliverySub100fsPulses2007}
+G{\'E}R{\^O}ME F, COOK K, GEORGE A~K, et~al.
+\newblock Delivery of sub-100fs pulses through 8m of hollow-core fiber using
+  soliton compression\allowbreak[J].
+\newblock Optics express, 2007, 15\allowbreak (12): 7126-7131.
+
+\bibitem[L{\ae}gsgaard et~al.(2009)L{\ae}gsgaard and
+  Roberts]{laegsgaardTheoryAdiabaticPressuregradient2009}
+L{\AE}GSGAARD J, ROBERTS P~J.
+\newblock Theory of adiabatic pressure-gradient soliton compression in
+  hollow-core photonic bandgap fibers\allowbreak[J/OL].
+\newblock Optics Letters, 2009, 34\allowbreak (23): 3710.
+\newblock DOI: \doi{10.1364/OL.34.003710}.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright {{Spatially Coherent Wavelength-Tunable Deep-UV Laser Source
+  Using}} an {{Ar-Filled Photonic Crystal Fiber}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[Wai et~al.(1986)Wai, Menyuk, Lee, and
+  Chen]{waiNonlinearPulsePropagation1986}
+WAI P~K~A, MENYUK C~R, LEE Y~C, et~al.
+\newblock Nonlinear pulse propagation in the neighborhood of the
+  zero-dispersion wavelength of monomode optical fibers\allowbreak[J/OL].
+\newblock Optics Letters, 1986, 11\allowbreak (7): 464.
+\newblock DOI: \doi{10.1364/OL.11.000464}.
+
+\bibitem[Wai et~al.(1990)Wai, Chen, and Lee]{waiRadiationsSolitonsZero1990}
+WAI P~K~A, CHEN H~H, LEE Y~C.
+\newblock Radiations by ``solitons'' at the zero group-dispersion wavelength of
+  single-mode optical fibers\allowbreak[J/OL].
+\newblock Physical Review A, 1990, 41\allowbreak (1): 426-439.
+\newblock DOI: \doi{10.1103/PhysRevA.41.426}.
+
+\bibitem[Karpman(1993)]{karpmanRadiationSolitonsDue1993}
+KARPMAN V~I.
+\newblock Radiation by solitons due to higher-order
+  dispersion\allowbreak[J/OL].
+\newblock Physical Review E, 1993, 47\allowbreak (3): 2073-2082.
+\newblock DOI: \doi{10.1103/PhysRevE.47.2073}.
+
+\bibitem[Im et~al.(2010)Im, Husakou, and
+  Herrmann]{imHighpowerSolitoninducedSupercontinuum2010}
+IM S~J, HUSAKOU A, HERRMANN J.
+\newblock High-power soliton-induced supercontinuum generation and tunable
+  sub-10-fs {{VUV}} pulses from kagome-lattice {{HC-PCFs}}\allowbreak[J/OL].
+\newblock Optics Express, 2010, 18\allowbreak (6): 5367.
+\newblock DOI: \doi{10.1364/OE.18.005367}.
+
+\end{thebibliography}

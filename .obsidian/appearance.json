@@ -1,0 +1,12 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "baseFontSize": 17,
+  "monospaceFontFamily": "MonoLisa",
+  "textFontFamily": "霞鹜文楷 GB,Microsoft YaHei",
+  "interfaceFontFamily": "霞鹜文楷 GB",
+  "enabledCssSnippets": [],
+  "showRibbon": false
+}

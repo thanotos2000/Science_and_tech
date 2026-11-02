@@ -1,0 +1,179 @@
+\documentclass[14pt,a4paper,oneside]{article}
+
+\usepackage[utf8]{inputenc}   
+
+
+\usepackage{amsmath,amsthm,amssymb,appendix,bm,mathrsfs,ctex,geometry,tcolorbox,fancyhdr,tikz,esint,appendix}
+
+
+%% GB/T 7714 宏包 ---- 引文格式
+\usepackage[sort&compress]{gbt7714}
+\bibliographystyle{gbt7714-numerical}
+
+
+
+\numberwithin{equation}{subsection}             %%%%%% 公式编号
+
+
+
+
+\geometry{left=1.7cm, right=1.7cm, top=2.54cm, bottom=2.54cm}    %%%%% 页面尺寸
+\linespread{1.5}                             %%%%% 行距1.5倍
+\pagestyle{fancy}
+
+
+
+%%    设置页眉页脚
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.15mm}
+\fancyhead[C]{文献阅读报告}                   %%%%%% 页眉
+\fancyfoot[C]{\thepage}                      %%%%%% 页脚 页码
+\setlength{\headheight}{15pt}
+
+
+%%   设置各种链接颜色为黑色
+\usepackage[colorlinks,
+            linkcolor=black,
+            anchorcolor=black,
+            citecolor=black,
+            urlcolor=black
+            ]{hyperref}
+
+
+
+%%   例子编号
+\newcounter{example}
+\counterwithin{example}{subsection}
+\newcommand{\examplename}{Example}
+\newcommand{\exampleTitle}[1]{%
+\textbf{\refstepcounter{example}\examplename\theexample:#1}\par}
+
+
+%%  插入图片配置
+\usepackage{graphicx,subfigure}
+\usepackage[]{caption2} %新增调用的宏包
+\numberwithin{figure}{subsection}               %%%%%% 图片编号
+
+\graphicspath{ {./Figure/} }            %%%%% 设置图片文件所在目录
+\DeclareGraphicsExtensions{.pdf,.svg,.jpeg,.png,.jpg}     %%%%% 支持图片格式
+
+
+%%    支持tikz作图
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,arrows}
+
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+
+
+\title{\textbf{文献阅读报告 9\\Relativistic-intensity near-single-cycle light
+waveforms at kHz repetition rate}}                           %%%%% 标题
+\author{骆禹天}                                           %%%%% 作者
+\date{2024/**/**}                                        %%%%%% 日期
+
+%%   定义一些数学格式
+\newtheorem{theorem}{定理}[subsection]
+\newtheorem{definition}[theorem]{定义}
+\newtheorem{lemma}[theorem]{引理}
+\newtheorem{corollary}[theorem]{推论}
+\newtheorem{example}[theorem]{例}
+\newtheorem{proposition}[theorem]{命题}
+\renewcommand{\abstractname}{\Large\textbf{摘要}}
+
+
+
+
+%------------------------- 开始文档  -------------------------%
+
+
+
+\begin{document}
+
+\pagenumbering{Roman}         %%%%% 目录前页码统计按罗马数字
+
+\maketitle
+
+\setcounter{page}{1}          %%%%% 标题开始统计页数
+
+%------------------------- 目录  ------------------------------%
+
+\tableofcontents              %%%%% 插入目录
+
+\newpage
+\setcounter{page}{1}          %%%%% 目录后重新统计页数
+
+
+\pagenumbering{arabic}        %%%%% 目录后统计页码为阿拉伯数字
+
+
+
+%%%%%%%%%%%%%%%%%%%% 开始第一节  %%%%%%%%%%%%%%%%%%%%%
+
+
+
+\section{Introduction}
+
+\subsection{波形控制的少周期激光脉}
+
+
+波形控制的少周期激光脉冲:
+
+· 同时具有阿秒时间尺度上的时间精度与超高电磁场强度. 接近单载波周期的激光瞬态;
+
+· 足够的平均功率 (<1 W) 和峰值功率 ($\leq 0.1 \;\mathrm{TW}$) 驱动激光-原子相互作用;
+
+· 此时激光电场 $\geq 10^{10} \mathrm{V/m}$ 开始能够克服价电子与原子核的结合;
+
+· 脉冲的载波包络相位 (CEP) 控制提供时间精度为阿秒科学铺平道路\cite{UsingPassivelyStable, calegariAdvancesAttosecondScience2016, ciappinaAttosecondPhysicsNanoscale2017}, 将加深对超快多体量子动力学的理解. 
+
+\subsection{CEP 控制的少周期脉冲驱动相对论性激光-物质相互作用}
+
+当激光电场强度 $\gtrsim 10^{13}\; \mathrm{V/m}$ 时, 电磁场驱动的电子振动能量超过其静止能量 ($m_ec^2 \approx 0.5\; \mathrm{MeV}$) , 即电子在一个激光周期内达到相对论速度. 这种情形下洛伦兹力的磁场贡献与电场同等重要甚至占主导, 且电子动力学作为激光场的函数变得高度非线性. 相对论状态的激光与物质相互作用\cite{strozziKineticSimulationLaserplasma2003, mourouOpticsRelativisticRegime2006, dipiazzaExtremelyHighintensityLaser2012}是当代物理学的前沿, 其将高度复杂的等离子体动力学与可实现最高强度的激光场结合起来. 这开启了二次高能粒子与光源的发展:
+
+· 激光等离子体电子加速器\cite{malkaLaserPlasmaAccelerators2012}
+
+· 基于等离子体镜的阿秒极紫外光源\cite{thauryHighorderHarmonicAttosecond2010}. 
+
+CEP 控制的少周期脉冲不仅能驱动相对论性激光-等离子体相互作用, 而且能够以阿秒精度控制这些极端的光学相互作用, 这一直是一个长期的挑战. 主要用途:
+
+· 提高相对论电子的激光尾场加速 (LWFA) 的功率范围\cite{guenotRelativisticElectronBeams2017};
+
+· 从相对论等离子体镜\cite{jahnIntenseIsolatedAttosecond2019}或薄的传输靶\cite{zhangIntenseAttosecondPulses2017}中产生高强度的孤立阿秒脉冲. 
+
+· 能够将电磁场驱动过程从周期平均强度效应中分离出来. 
+
+\subsection{少周期CEP稳定脉冲, by OPCPA}
+
+最近少周期脉冲功率显着增加, 宽带光参量啁啾脉冲放大技术 (OPCPA) 已将少周期脉冲峰值功率扩大到 TW 范围\cite{grusonTWTwocycleIR2017, rivasNextGenerationDriver2017, kesselRelativisticFewcyclePulses2018}, 但由于需要数百 mJ 泵浦能量, 通常只能在低重复频率 (10 Hz) 下运行, 无法实现适当的 CEP 稳定性. 
+
+尽管如此, 由于固有的高时间对比度, 基于 OPCPA 的源最近以 10 Hz 重复率实现了少周期驱动的相对论性激光-等离子体相互作用, 证明了亚 2 周期的相对论性表面高次谐波生成\cite{rivasNextGenerationDriver2017}和亚 3 周期脉冲\cite{jahnIntenseIsolatedAttosecond2019, kesselRelativisticFewcyclePulses2018, korminSpectralInterferometryWaveformdependent2018}, 以及具有 3 周期脉冲\cite{schmidFewcycleLaserdrivenElectron2009}的 LWFA. 
+
+\subsection{少周期CEP稳定脉冲, by 后压缩}
+
+为扩大平均功率, 已实现 >200 W 亚 2 周期脉冲源\cite{hadrichEnergeticSub2cycleLaser2016}, 基于高重复率 (100 kHz) 掺镱光纤啁啾脉冲放大技术与空心光纤 (HCF) 非线性后压缩\cite{nisoliGenerationHighEnergy1996}. 虽然压缩因子增加了 33 倍\cite{jeongDirectCompression170fs2018}, 但 CEP 锁定尚未实施. 相对而言, 最近 TW 级 OPCPA 的高重复率泵浦激光器技术和被动 CEP 稳定种子生成\cite{baltuskaControllingCarrierenvelopePhase2002}的进展导致产生具有稳定 CEP , 平均功率约 10 W 的亚 3 周期脉冲\cite{budriunas53AveragePower2017}, 但其强场应用能力尚未利用. 
+
+目前已有产生太瓦乃至拍瓦少周期脉冲的新方案, 最近,报道了第一个实验原理验证演示, 用于薄膜压缩顶帽脉冲\cite{farinellaFocusabilityLaserPulses2019}以及通过基于等离子体的光子减速将强光脉冲频率减少至中红外范围\cite{zhuSinglecycleTerawattTwistedlight2019}. 
+
+TW 级亚 2 周期脉冲生成的一种竞争方法基于由 Ti:蓝宝石啁啾脉冲放大 (CPA) 系统产生脉冲并基于 HCF 后压缩与功率放大\cite{vozziOptimalSpectralBroadening2005}. 先前已证明, 尽管没有 CEP 控制, 这种方法可在 1 TW 峰值功率下提供 2 周期脉冲. 第一个遵循这种方法并将多毫焦脉冲能量、亚 2 周期持续时间和 CEP 锁定结合起来的系统\cite{bohmanGeneration50Fs2010}是此处描述的系统的前身. 在中间开发阶段, 激光放大器链的能量增加, HCF 的真空集成得到改善, 但由于脉冲能量稳定性不足而缺乏 CEP 控制, 该系统是第一个以 kHz 重复率将 LWFA 驱动到相对论电子能量的系统\cite{guenotRelativisticElectronBeams2017}. 
+
+\section{Results}
+
+\subsection{Power-scaled hollow ﬁber compressor}
+
+图 1 详细显示了完全真空集成的后压缩器设置。种子激光器是 Ti:sapphire 双 CPA 链，可提供 10 mJ 能量的脉冲（逐次稳定性 <0.3\% 均方根（ r.m.s.）在数小时内）以 1 kHz 重复率，在脉冲峰值之前 ≈−10 ps 时时间对比度 >1010。来自 CPA 的脉冲首先在空气中部分压缩至约 200 fs，以防止真空束线入口窗口中的非线性光束衰减，这将显着降低 HCF26 的耦合效率。在真空下引入 ≈−2000 fs2 群延迟色散 (GDD) 后，通过八个高色散啁啾镜实现了傅里叶变换限制持续时间 24 fs 的最终压缩。
+
+
+
+%--------------------  插入参考文献  --------------------%
+
+\newpage
+
+\clearpage           %%%  “目录”中显示的页码正确, 需要添加 \clearpage
+\phantomsection      %%   “目录”中的链接能正确跳转, 需要添加 \phantomsection
+\addcontentsline{toc}{section}{参考文献}   %向目录中添加条目, 以章的名义
+
+\bibliography{ref}
+
+\end{document}

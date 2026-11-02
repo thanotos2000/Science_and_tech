@@ -1,0 +1,136 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Pronin et~al.(2015)Pronin, Seidel, L{\"u}cking, Brons, Fedulova,
+  Trubetskov, Pervak, Apolonski, Udem, and
+  Krausz]{proninHighpowerMultimegahertzSource2015}
+PRONIN O, SEIDEL M, L{\"U}CKING F, et~al.
+\newblock High-power multi-megahertz source of waveform-stabilized few-cycle
+  light\allowbreak[J].
+\newblock Nature Communications, 2015, 6\allowbreak (1): 1-6.
+
+\bibitem[Akhmediev et~al.(1995)Akhmediev and
+  Karlsson]{akhmedievCherenkovRadiationEmitted1995}
+AKHMEDIEV N, KARLSSON M.
+\newblock Cherenkov radiation emitted by solitons in optical
+  fibers\allowbreak[J/OL].
+\newblock Physical Review A, 1995, 51\allowbreak (3): 2602-2607.
+\newblock DOI: \doi{10.1103/PhysRevA.51.2602}.
+
+\bibitem[Erkintalo et~al.(2012)Erkintalo, Xu, Murdoch, Dudley, and
+  Genty]{erkintaloCascadedPhaseMatching2012}
+ERKINTALO M, XU Y~Q, MURDOCH S~G, et~al.
+\newblock Cascaded phase matching and nonlinear symmetry breaking in fiber
+  frequency combs\allowbreak[J].
+\newblock Physical review letters, 2012, 109\allowbreak (22): 223904.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright spatially coherent wavelength-tunable deep-{{UV}} laser source
+  using an ar-filled photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[Mak et~al.(2013)Mak, Travers, H{\"o}lzer, Joly, and
+  Russell]{makTunableVacuumUVVisible2013}
+MAK K~F, TRAVERS J~C, H{\"O}LZER P, et~al.
+\newblock Tunable vacuum-{{UV}} to visible ultrafast pulse source based on
+  gas-filled kagome-{{PCF}}\allowbreak[J].
+\newblock Optics express, 2013, 21\allowbreak (9): 10942-10953.
+
+\bibitem[Ermolov et~al.(2015)Ermolov, Mak, Frosz, Travers, and
+  Russell]{ermolovSupercontinuumGenerationVacuum2015}
+ERMOLOV A, MAK K~F, FROSZ M~H, et~al.
+\newblock Supercontinuum generation in the vacuum ultraviolet through
+  dispersive-wave and soliton-plasma interaction in a noble-gas-filled
+  hollow-core photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review A, 2015, 92\allowbreak (3): 033821.
+\newblock DOI: \doi{10.1103/PhysRevA.92.033821}.
+
+\bibitem[K{\"o}ttig et~al.(2015)K{\"o}ttig, Tani, Uebel, Russell, and
+  Travers]{kottigHighAveragepowerEnergy2015}
+K{\"O}TTIG F, TANI F, UEBEL P, et~al.
+\newblock High average-power and energy deep-ultraviolet femtosecond pulse
+  source driven by 10 {{MHz}} fibre-laser\allowbreak[C]//\allowbreak
+The {{European Conference}} on {{Lasers}} and {{Electro-Optics}}.
+\newblock Optica Publishing Group, 2015: PD\_A\_7.
+
+\bibitem[Mak et~al.(2015)Mak, Seidel, Pronin, Frosz, Abdolvand, Pervak,
+  Apolonski, Krausz, Travers, and Russell]{makCompressingMJlevelPulses2015}
+MAK K~F, SEIDEL M, PRONIN O, et~al.
+\newblock Compressing {{$\mu$J-level}} pulses from 250 fs to sub-10 fs at
+  38-{{MHz}} repetition rate using two gas-filled hollow-core photonic crystal
+  fiber stages\allowbreak[J/OL].
+\newblock Optics Letters, 2015, 40\allowbreak (7): 1238.
+\newblock DOI: \doi{10.1364/OL.40.001238}.
+
+\bibitem[Debord et~al.(2017)Debord, Amsanpally, Chafer, Baz, Maurel, Blondy,
+  Hugonnot, Scol, Vincetti, and
+  G{\'e}r{\^o}me]{debordUltralowTransmissionLoss2017}
+DEBORD B, AMSANPALLY A, CHAFER M, et~al.
+\newblock Ultralow transmission loss in inhibited-coupling guiding hollow
+  fibers\allowbreak[J].
+\newblock Optica, 2017, 4\allowbreak (2): 209-217.
+
+\bibitem[Uebel et~al.(2016)Uebel, G{\"u}nendi, Frosz, Ahmed, Edavalath,
+  M{\'e}nard, and Russell]{uebelBroadbandRobustlySinglemode2016}
+UEBEL P, G{\"U}NENDI M~C, FROSZ M~H, et~al.
+\newblock Broadband robustly single-mode hollow-core {{PCF}} by resonant
+  filtering of higher-order modes\allowbreak[J].
+\newblock Optics letters, 2016, 41\allowbreak (9): 1961-1964.
+
+\bibitem[Uebel et~al.(2020)Uebel, Russell, and
+  Bauerschmidt]{uebelBroadbandLightSource2020}
+UEBEL P~S, RUSSELL P~S~J, BAUERSCHMIDT S~T.
+\newblock Broadband light source device and method of creating broadband light
+  pulses\allowbreak[P].
+\newblock 2020.
+
+\bibitem[Tani et~al.(2014)Tani, Travers, and
+  Russell]{taniMultimodeUltrafastNonlinear2014}
+TANI F, TRAVERS J~C, RUSSELL P~S~J.
+\newblock Multimode ultrafast nonlinear optics in optical waveguides:
+  {{Numerical}} modeling and experiments in kagom{\'e} photonic-crystal
+  fiber\allowbreak[J].
+\newblock Josa B, 2014, 31\allowbreak (2): 311-320.
+
+\bibitem[Lehmeier et~al.(1985)Lehmeier, Leupacher, and
+  Penzkofer]{lehmeierNonresonantThirdOrder1985}
+LEHMEIER H, LEUPACHER W, PENZKOFER A.
+\newblock Nonresonant third order hyperpolarizability of rare gases and {{N2}}
+  determined by third harmonic generation\allowbreak[J/OL].
+\newblock Optics Communications, 1985, 56\allowbreak (1): 67-72.
+\newblock DOI: \doi{10.1016/0030-4018(85)90069-0}.
+
+\bibitem[Perelomov et~al.(1966)Perelomov, Popov, and
+  Terent'Ev]{perelomovIonizationAtomsAlternating1966}
+PERELOMOV A~M, POPOV V~S, TERENT'EV M~V.
+\newblock Ionization of atoms in an alternating electric field\allowbreak[J].
+\newblock Sov. Phys. JETP, 1966, 23\allowbreak (5): 924-934.
+
+\bibitem[Ermolov et~al.(2016)Ermolov, {Valtna-Lukner}, Travers, and
+  Russell]{ermolovCharacterizationFewfsDeepUV2016}
+ERMOLOV A, {Valtna-Lukner} H, TRAVERS J, et~al.
+\newblock Characterization of few-fs deep-{{UV}} dispersive waves by
+  ultra-broadband transient-grating {{XFROG}}\allowbreak[J].
+\newblock Optics Letters, 2016, 41\allowbreak (23): 5535-5538.
+
+\bibitem[Cheng et~al.(2013)Cheng, Wahlstrand, Jhajj, and
+  Milchberg]{chengEffectLongTimescale2013}
+CHENG Y~H, WAHLSTRAND J~K, JHAJJ N, et~al.
+\newblock The effect of long timescale gas dynamics on femtosecond
+  filamentation\allowbreak[J].
+\newblock Optics Express, 2013, 21\allowbreak (4): 4740-4751.
+
+\end{thebibliography}

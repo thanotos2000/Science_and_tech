@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Results}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Scaling rules for soliton dynamics in HCF}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}High-energy soliton self-compression}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Tunable vacuum and deep ultraviolet pulse generation}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Discussion}{7}{section.3}%
+\contentsline {section}{参考文献}{9}{section*.2}%

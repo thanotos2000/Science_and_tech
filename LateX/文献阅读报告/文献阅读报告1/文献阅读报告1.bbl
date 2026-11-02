@@ -1,0 +1,825 @@
+\begin{thebibliography}{98}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Rolland et~al.()Rolland and
+  Corkum]{rollandCompressionHighpowerOptical}
+ROLLAND C, CORKUM P~B.
+\newblock Compression of high-power optical pulses\allowbreak[Z].
+
+\bibitem[M{\'e}vel et~al.(2003)M{\'e}vel, Tcherbakoff, Salin, and
+  Constant]{mevelExtracavityCompressionTechnique2003}
+M{\'E}VEL E, TCHERBAKOFF O, SALIN F, et~al.
+\newblock Extracavity compression technique for high-energy femtosecond
+  pulses\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2003, 20\allowbreak (1):
+  105.
+\newblock DOI: \doi{10.1364/JOSAB.20.000105}.
+
+\bibitem[Mourou et~al.(2014)Mourou, Mironov, Khazanov, and
+  Sergeev]{mourouSingleCycleThin2014}
+MOUROU G, MIRONOV S, KHAZANOV E, et~al.
+\newblock Single cycle thin film compressor opening the door to
+  {{Zeptosecond-Exawatt}} physics\allowbreak[J/OL].
+\newblock The European Physical Journal Special Topics, 2014, 223\allowbreak
+  (6): 1181-1188.
+\newblock DOI: \doi{10.1140/epjst/e2014-02171-5}.
+
+\bibitem[Lu et~al.(2014)Lu, Tsou, Chen, Chen, Cheng, Yang, Chen, Hsu, and
+  Kung]{luGenerationIntenseSupercontinuum2014}
+LU C~H, TSOU Y~J, CHEN H~Y, et~al.
+\newblock Generation of intense supercontinuum in condensed
+  media\allowbreak[J/OL].
+\newblock Optica, 2014, 1\allowbreak (6): 400.
+\newblock DOI: \doi{10.1364/OPTICA.1.000400}.
+
+\bibitem[Lu et~al.(2018)Lu, Witting, Husakou, Vrakking, Kung, and
+  Furch]{luSub4FsLaser2018}
+LU C~H, WITTING T, HUSAKOU A, et~al.
+\newblock Sub-4 fs laser pulses at high average power and high repetition rate
+  from an all-solid-state setup\allowbreak[J/OL].
+\newblock Optics Express, 2018, 26\allowbreak (7): 8941.
+\newblock DOI: \doi{10.1364/OE.26.008941}.
+
+\bibitem[Kaumanns et~al.(2018)Kaumanns, Pervak, Kormin, Leshchenko, Kessel,
+  Ueffing, Chen, and Nubbemeyer]{kaumannsMultipassSpectralBroadening2018}
+KAUMANNS M, PERVAK V, KORMIN D, et~al.
+\newblock Multipass spectral broadening of 18 {{mJ}} pulses compressible from
+  13 ps to 41 fs\allowbreak[J/OL].
+\newblock Optics Letters, 2018, 43\allowbreak (23): 5877.
+\newblock DOI: \doi{10.1364/OL.43.005877}.
+
+\bibitem[Russbueldt et~al.(2019)Russbueldt, Weitenberg, Schulte, Meyer,
+  Meinhardt, Hoffmann, and Poprawe]{russbueldtScalable30Fs2019}
+RUSSBUELDT P, WEITENBERG J, SCHULTE J, et~al.
+\newblock Scalable 30 fs laser source with 530 {{W}} average
+  power\allowbreak[J/OL].
+\newblock Optics Letters, 2019, 44\allowbreak (21): 5222.
+\newblock DOI: \doi{10.1364/OL.44.005222}.
+
+\bibitem[Couairon et~al.(2007)Couairon and
+  Mysyrowicz]{couaironFemtosecondFilamentationTransparent2007}
+COUAIRON A, MYSYROWICZ A.
+\newblock Femtosecond filamentation in transparent media\allowbreak[J/OL].
+\newblock Physics Reports, 2007, 441\allowbreak (2-4): 47-189.
+\newblock DOI: \doi{10.1016/j.physrep.2006.12.005}.
+
+\bibitem[Berg{\'e} et~al.(2007)Berg{\'e}, Skupin, Nuter, Kasparian, and
+  Wolf]{bergeUltrashortFilamentsLight2007}
+BERG{\'E} L, SKUPIN S, NUTER R, et~al.
+\newblock Ultrashort filaments of light in weakly ionized, optically
+  transparent media\allowbreak[J/OL].
+\newblock Reports on Progress in Physics, 2007, 70\allowbreak (10): 1633-1713.
+\newblock DOI: \doi{20070927031307}.
+
+\bibitem[Gaeta(2000)]{gaetaCatastrophicCollapseUltrashort2000}
+GAETA A~L.
+\newblock Catastrophic {{Collapse}} of {{Ultrashort Pulses}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2000, 84\allowbreak (16): 3582-3585.
+\newblock DOI: \doi{10.1103/PhysRevLett.84.3582}.
+
+\bibitem[Hauri et~al.(2004)Hauri, Kornelis, Helbing, Heinrich, Couairon,
+  Mysyrowicz, Biegert, and Keller]{hauriGenerationIntenseCarrierenvelope2004}
+HAURI C, KORNELIS W, HELBING F, et~al.
+\newblock Generation of intense, carrier-envelope phase-locked few-cycle laser
+  pulses through filamentation\allowbreak[J/OL].
+\newblock Applied Physics B, 2004, 79\allowbreak (6): 673-677.
+\newblock DOI: \doi{10.1007/s00340-004-1650-z}.
+
+\bibitem[Hauri et~al.(2005)Hauri, Guandalini, Eckle, Kornelis, Biegert, and
+  Keller]{hauriGenerationIntenseFewcycle2005}
+HAURI C~P, GUANDALINI A, ECKLE P, et~al.
+\newblock Generation of intense few-cycle laser pulses through filamentation -
+  parameter dependence\allowbreak[J/OL].
+\newblock Optics Express, 2005, 13\allowbreak (19): 7541.
+\newblock DOI: \doi{10.1364/OPEX.13.007541}.
+
+\bibitem[Za{\"i}r et~al.(2007)Za{\"i}r, Guandalini, Schapper, Holler, Biegert,
+  Gallmann, Keller, Couairon, Franco, and
+  Mysyrowicz]{zairSpatiotemporalCharacterizationFewcycle2007}
+ZA{\"I}R A, GUANDALINI A, SCHAPPER F, et~al.
+\newblock Spatio-temporal characterization of few-cycle pulses obtained by
+  filamentation\allowbreak[J/OL].
+\newblock Optics Express, 2007, 15\allowbreak (9): 5394.
+\newblock DOI: \doi{10.1364/OE.15.005394}.
+
+\bibitem[Ak{\"o}zbek et~al.(2006)Ak{\"o}zbek, Trushin, Baltu{\v s}ka, Fu{\ss},
+  Goulielmakis, Kosma, Krausz, Panja, Uiberacker, Schmid, Becker, Scalora, and
+  Bloemer]{akozbekExtendingSupercontinuumSpectrum2006}
+AK{\"O}ZBEK N, TRUSHIN S~A, BALTU{\v S}KA A, et~al.
+\newblock Extending the supercontinuum spectrum down to 200 nm with few-cycle
+  pulses\allowbreak[J/OL].
+\newblock New Journal of Physics, 2006, 8\allowbreak (9): 177-177.
+\newblock DOI: \doi{10.1088/1367-2630/8/9/177}.
+
+\bibitem[Goulielmakis et~al.(2008)Goulielmakis, Koehler, Reiter, Schultze,
+  Verhoef, Serebryannikov, Zheltikov, and
+  Krausz]{goulielmakisUltrabroadbandCoherentLight2008}
+GOULIELMAKIS E, KOEHLER S, REITER B, et~al.
+\newblock Ultrabroadband, coherent light source based on self-channeling of
+  few-cycle pulses in helium\allowbreak[J/OL].
+\newblock Optics Letters, 2008, 33\allowbreak (13): 1407.
+\newblock DOI: \doi{10.1364/OL.33.001407}.
+
+\bibitem[Steingrube et~al.(2012)Steingrube, Kretschmar, Hoff, Schulz,
+  Binhammer, Hansinger, Paulus, Morgner, and Kova{\v
+  c}ev]{steingrubeSub15cyclePulsesSingle2012}
+STEINGRUBE D~S, KRETSCHMAR M, HOFF D, et~al.
+\newblock Sub-15-cycle pulses from a single filament\allowbreak[J/OL].
+\newblock Optics Express, 2012, 20\allowbreak (21): 24049.
+\newblock DOI: \doi{10.1364/OE.20.024049}.
+
+\bibitem[Heyl et~al.(2016)Heyl, {Coudert-Alteirac}, Miranda, Louisy, Kovacs,
+  Tosa, Balogh, Varj{\'u}, L'Huillier, Couairon, and
+  Arnold]{heylScaleinvariantNonlinearOptics2016}
+HEYL C~M, {Coudert-Alteirac} H, MIRANDA M, et~al.
+\newblock Scale-invariant nonlinear optics in gases\allowbreak[J/OL].
+\newblock Optica, 2016, 3\allowbreak (1): 75.
+\newblock DOI: \doi{10.1364/OPTICA.3.000075}.
+
+\bibitem[Zheltikov(2017)]{zheltikovLaserinducedFilamentsMidinfrared2017}
+ZHELTIKOV A~M.
+\newblock Laser-induced filaments in the mid-infrared\allowbreak[J/OL].
+\newblock Journal of Physics B: Atomic, Molecular and Optical Physics, 2017,
+  50\allowbreak (9): 092001.
+\newblock DOI: \doi{10.1088/1361-6455/aa6109}.
+
+\bibitem[Vozzi et~al.(2005)Vozzi, Nisoli, Sansone, Stagira, and
+  De~Silvestri]{vozziOptimalSpectralBroadening2005}
+VOZZI C, NISOLI M, SANSONE G, et~al.
+\newblock Optimal spectral broadening in hollow-fiber compressor
+  systems\allowbreak[J/OL].
+\newblock Applied Physics B, 2005, 80\allowbreak (3): 285-289.
+\newblock DOI: \doi{10.1007/s00340-004-1721-1}.
+
+\bibitem[Knight et~al.(1996)Knight, Birks, Russell, and
+  Atkin]{knightAllsilicaSinglemodeOptical1996}
+KNIGHT J~C, BIRKS T~A, RUSSELL P~{\relax ST}~J, et~al.
+\newblock All-silica single-mode optical fiber with photonic crystal
+  cladding\allowbreak[J/OL].
+\newblock Optics Letters, 1996, 21\allowbreak (19): 1547.
+\newblock DOI: \doi{10.1364/OL.21.001547}.
+
+\bibitem[Cregan et~al.(1999)Cregan, Mangan, Knight, Birks, Russell, Roberts,
+  and Allan]{creganSingleModePhotonicBand1999}
+CREGAN R~F, MANGAN B~J, KNIGHT J~C, et~al.
+\newblock Single-{{Mode Photonic Band Gap Guidance}} of {{Light}} in
+  {{Air}}\allowbreak[J/OL].
+\newblock Science, 1999, 285\allowbreak (5433): 1537-1539.
+\newblock DOI: \doi{10.1126/science.285.5433.1537}.
+
+\bibitem[Benabid et~al.(2002)Benabid, Knight, Antonopoulos, and
+  Russell]{benabidStimulatedRamanScattering2002}
+BENABID F, KNIGHT J~C, ANTONOPOULOS G, et~al.
+\newblock Stimulated {{Raman Scattering}} in {{Hydrogen-Filled Hollow-Core
+  Photonic Crystal Fiber}}\allowbreak[J/OL].
+\newblock Science, 2002, 298\allowbreak (5592): 399-402.
+\newblock DOI: \doi{10.1126/science.1076408}.
+
+\bibitem[Pryamikov et~al.(2011)Pryamikov, Biriukov, Kosolapov, Plotnichenko,
+  Semjonov, and Dianov]{pryamikovDemonstrationWaveguideRegime2011}
+PRYAMIKOV A~D, BIRIUKOV A~S, KOSOLAPOV A~F, et~al.
+\newblock Demonstration of a waveguide regime for a silica hollow - core
+  microstructured optical fiber with a negative curvature of the core boundary
+  in the spectral region {$>$} 35 {$M$}m\allowbreak[J/OL].
+\newblock Optics Express, 2011, 19\allowbreak (2): 1441.
+\newblock DOI: \doi{10.1364/OE.19.001441}.
+
+\bibitem[Debord et~al.(2015)Debord, Amsanpally, Alharbi, Vincetti, Blondy,
+  Gerome, and Benabid]{debordUltraLargeCoreSize2015}
+DEBORD B, AMSANPALLY A, ALHARBI M, et~al.
+\newblock Ultra-{{Large Core Size Hypocycloid-Shape Inhibited Coupling Kagome
+  Fibers}} for {{High-Energy Laser Beam Handling}}\allowbreak[J/OL].
+\newblock Journal of Lightwave Technology, 2015, 33\allowbreak (17): 3630-3634.
+\newblock DOI: \doi{10.1109/JLT.2015.2448794}.
+
+\bibitem[Emaury et~al.(2014)Emaury, Saraceno, Debord, Ghosh, Diebold,
+  G{\`e}r{\^o}me, S{\"u}dmeyer, Benabid, and
+  Keller]{emauryEfficientSpectralBroadening2014}
+EMAURY F, SARACENO C~J, DEBORD B, et~al.
+\newblock Efficient spectral broadening in the 100-{{W}} average power regime
+  using gas-filled kagome {{HC-PCF}} and pulse compression\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (24): 6843.
+\newblock DOI: \doi{10.1364/OL.39.006843}.
+
+\bibitem[K{\"o}ttig et~al.(2017)K{\"o}ttig, Tani, Biersach, Travers, and
+  Russell]{kottigGenerationMicrojoulePulses2017}
+K{\"O}TTIG F, TANI F, BIERSACH C~M, et~al.
+\newblock Generation of microjoule pulses in the deep ultraviolet at megahertz
+  repetition rates\allowbreak[J/OL].
+\newblock Optica, 2017, 4\allowbreak (10): 1272.
+\newblock DOI: \doi{10.1364/OPTICA.4.001272}.
+
+\bibitem[H{\"a}drich et~al.(2015)H{\"a}drich, Krebs, Hoffmann, Klenke,
+  Rothhardt, Limpert, and T{\"u}nnermann]{hadrichExploringNewAvenues2015}
+H{\"A}DRICH S, KREBS M, HOFFMANN A, et~al.
+\newblock Exploring new avenues in high repetition rate table-top coherent
+  extreme ultraviolet sources\allowbreak[J/OL].
+\newblock Light: Science \& Applications, 2015, 4\allowbreak (8): e320-e320.
+\newblock DOI: \doi{10.1038/lsa.2015.93}.
+
+\bibitem[Guichard et~al.(2015)Guichard, Giree, Zaouter, Hanna, Machinet,
+  Debord, G{\'e}r{\^o}me, Dupriez, Druon, H{\"o}nninger, Mottay, Benabid, and
+  Georges]{guichardNonlinearCompressionHigh2015}
+GUICHARD F, GIREE A, ZAOUTER Y, et~al.
+\newblock Nonlinear compression of high energy fiber amplifier pulses in
+  air-filled hypocycloid-core {{Kagome}} fiber\allowbreak[J/OL].
+\newblock Optics Express, 2015, 23\allowbreak (6): 7416.
+\newblock DOI: \doi{10.1364/OE.23.007416}.
+
+\bibitem[K{\"o}ttig et~al.(2020)K{\"o}ttig, Schade, Koehler, Russell, and
+  Tani]{kottigEfficientSinglecyclePulse2020}
+K{\"O}TTIG F, SCHADE D, KOEHLER J~R, et~al.
+\newblock Efficient single-cycle pulse compression of an ytterbium fiber laser
+  at 10 {{MHz}} repetition rate\allowbreak[J/OL].
+\newblock Optics Express, 2020, 28\allowbreak (7): 9099.
+\newblock DOI: \doi{10.1364/OE.389137}.
+
+\bibitem[Marcatili et~al.(1964)Marcatili and
+  Schmeltzer]{marcatiliHollowMetallicDielectric1964}
+MARCATILI E~A~J, SCHMELTZER R~A.
+\newblock Hollow {{Metallic}} and {{Dielectric Waveguides}} for {{Long Distance
+  Optical Transmission}} and {{Lasers}}\allowbreak[J/OL].
+\newblock Bell System Technical Journal, 1964, 43\allowbreak (4): 1783-1809.
+\newblock DOI: \doi{10.1002/j.1538-7305.1964.tb04108.x}.
+
+\bibitem[Abrams(1972)]{abramsCouplingLossesHollow1972}
+ABRAMS R.
+\newblock Coupling losses in hollow waveguide laser
+  resonators\allowbreak[J/OL].
+\newblock IEEE Journal of Quantum Electronics, 1972, 8\allowbreak (11):
+  838-843.
+\newblock DOI: \doi{10.1109/JQE.1972.1076875}.
+
+\bibitem[Nisoli et~al.(1997)Nisoli, De~Silvestri, Svelto, Szip{\"o}cs, Ferencz,
+  Spielmann, Sartania, and Krausz]{nisoliCompressionHighenergyLaser1997}
+NISOLI M, DE~SILVESTRI S, SVELTO O, et~al.
+\newblock Compression of high-energy laser pulses below 5 fs\allowbreak[J/OL].
+\newblock Optics Letters, 1997, 22\allowbreak (8): 522.
+\newblock DOI: \doi{10.1364/OL.22.000522}.
+
+\bibitem[Sartania et~al.(1997)Sartania, Cheng, Lenzner, Tempea, Spielmann,
+  Krausz, and Ferencz]{sartaniaGeneration01TW5fs1997}
+SARTANIA S, CHENG Z, LENZNER M, et~al.
+\newblock Generation of 01-{{TW}} 5-fs optical pulses at a 1-{{kHz}} repetition
+  rate\allowbreak[J/OL].
+\newblock Optics Letters, 1997, 22\allowbreak (20): 1562.
+\newblock DOI: \doi{10.1364/OL.22.001562}.
+
+\bibitem[Cerullo et~al.(2000)Cerullo, De~Silvestri, Nisoli, Sartania, Stagira,
+  and Svelto]{cerulloFewopticalcycleLaserPulses2000}
+CERULLO G, DE~SILVESTRI S, NISOLI M, et~al.
+\newblock Few-optical-cycle laser pulses: From high peak power to frequency
+  tunability\allowbreak[J/OL].
+\newblock IEEE Journal of Selected Topics in Quantum Electronics, 2000,
+  6\allowbreak (6): 948-958.
+\newblock DOI: \doi{10.1109/2944.902143}.
+
+\bibitem[Farkas et~al.(1992)Farkas and
+  T{\'o}th]{farkasProposalAttosecondLight1992}
+FARKAS {\relax GY}, T{\'O}TH {\relax CS}.
+\newblock Proposal for attosecond light pulse generation using laser induced
+  multiple-harmonic conversion processes in rare gases\allowbreak[J/OL].
+\newblock Physics Letters A, 1992, 168\allowbreak (5-6): 447-450.
+\newblock DOI: \doi{10.1016/0375-9601(92)90534-S}.
+
+\bibitem[Corkum(1993)]{corkumPlasmaPerspectiveStrong1993}
+CORKUM P~B.
+\newblock Plasma perspective on strong field multiphoton
+  ionization\allowbreak[J/OL].
+\newblock Physical Review Letters, 1993, 71\allowbreak (13): 1994-1997.
+\newblock DOI: \doi{10.1103/PhysRevLett.71.1994}.
+
+\bibitem[Hentschel et~al.(2001)Hentschel, Kienberger, Spielmann, Reider,
+  Milosevic, Brabec, Corkum, Heinzmann, Drescher, and
+  Krausz]{hentschelAttosecondMetrology2001}
+HENTSCHEL M, KIENBERGER R, SPIELMANN {\relax CH}, et~al.
+\newblock Attosecond metrology\allowbreak[J/OL].
+\newblock Nature, 2001, 414\allowbreak (6863): 509-513.
+\newblock DOI: \doi{10.1038/35107000}.
+
+\bibitem[Cavalieri et~al.(2007)Cavalieri, Goulielmakis, Horvath, Helml,
+  Schultze, Fie{\ss}, Pervak, Veisz, Yakovlev, Uiberacker, Apolonski, Krausz,
+  and Kienberger]{cavalieriIntense5cycleInfrared2007}
+CAVALIERI A~L, GOULIELMAKIS E, HORVATH B, et~al.
+\newblock Intense 1.5-cycle near infrared laser waveforms and their use for the
+  generation of ultra-broadband soft-x-ray harmonic continua\allowbreak[J/OL].
+\newblock New Journal of Physics, 2007, 9\allowbreak (7): 242-242.
+\newblock DOI: \doi{10.1088/1367-2630/9/7/242}.
+
+\bibitem[Schweinberger et~al.(2012)Schweinberger, Sommer, Bothschafter, Li,
+  Krausz, Kienberger, and
+  Schultze]{schweinbergerWaveformcontrolledNearsinglecycleMillijoule2012}
+SCHWEINBERGER W, SOMMER A, BOTHSCHAFTER E, et~al.
+\newblock Waveform-controlled near-single-cycle milli-joule laser pulses
+  generate sub-10 nm extreme ultraviolet continua\allowbreak[J/OL].
+\newblock Optics Letters, 2012, 37\allowbreak (17): 3573.
+\newblock DOI: \doi{10.1364/OL.37.003573}.
+
+\bibitem[Chen et~al.(2009)Chen, Jullien, Malvache, Canova, Borot, Trisorio,
+  Durfee, and {Lopez-Martens}]{chenGeneration43Fs2009}
+CHEN X, JULLIEN A, MALVACHE A, et~al.
+\newblock Generation of 43 fs, 1 {{mJ}} laser pulses via compression of
+  circularly polarized pulses in a gas-filled hollow-core
+  fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2009, 34\allowbreak (10): 1588.
+\newblock DOI: \doi{10.1364/OL.34.001588}.
+
+\bibitem[Anderson et~al.(2011)Anderson, L{\"u}cking, Prikoszovits, Hofer,
+  Cheng, Neacsu, Scharrer, Rammler, Russell, Tempea, and
+  Assion]{andersonMultimJCarrierEnvelope2011}
+ANDERSON A, L{\"U}CKING F, PRIKOSZOVITS T, et~al.
+\newblock Multi-{{mJ}} carrier envelope phase stabilized few-cycle pulses
+  generated by a tabletop laser system\allowbreak[J/OL].
+\newblock Applied Physics B, 2011, 103\allowbreak (3): 531-536.
+\newblock DOI: \doi{10.1007/s00340-011-4592-2}.
+
+\bibitem[H{\"a}drich et~al.(2009)H{\"a}drich, Rothhardt, Eidam, Limpert, and
+  T{\"u}nnermann]{hadrichHighEnergyUltrashort2009}
+H{\"A}DRICH S, ROTHHARDT J, EIDAM T, et~al.
+\newblock High energy ultrashort pulses via hollow fiber compression of a fiber
+  chirped pulse amplification system\allowbreak[J/OL].
+\newblock Optics Express, 2009, 17\allowbreak (5): 3913.
+\newblock DOI: \doi{10.1364/OE.17.003913}.
+
+\bibitem[Lavenu et~al.(2017)Lavenu, Natile, Guichard, Zaouter, Hanna, Mottay,
+  and Georges]{lavenuHighenergyFewcycleYbdoped2017}
+LAVENU L, NATILE M, GUICHARD F, et~al.
+\newblock High-energy few-cycle {{Yb-doped}} fiber amplifier source based on a
+  single nonlinear compression stage\allowbreak[J/OL].
+\newblock Optics Express, 2017, 25\allowbreak (7): 7530.
+\newblock DOI: \doi{10.1364/OE.25.007530}.
+
+\bibitem[H{\"a}drich et~al.(2016)H{\"a}drich, Rothhardt, Demmler, Tschernajew,
+  Hoffmann, Krebs, Liem, De~Vries, Pl{\"o}tner, Fabian, Schreiber, Limpert, and
+  T{\"u}nnermann]{hadrichScalabilityComponentsKWlevel2016}
+H{\"A}DRICH S, ROTHHARDT J, DEMMLER S, et~al.
+\newblock Scalability of components for {{kW-level}} average power few-cycle
+  lasers\allowbreak[J/OL].
+\newblock Applied Optics, 2016, 55\allowbreak (7): 1636.
+\newblock DOI: \doi{10.1364/AO.55.001636}.
+
+\bibitem[Rothhardt et~al.(2011)Rothhardt, H{\"a}drich, Carstens, Herrick,
+  Demmler, Limpert, and T{\"u}nnermann]{rothhardtMHzRepetitionRate2011}
+ROTHHARDT J, H{\"A}DRICH S, CARSTENS H, et~al.
+\newblock 1 {{MHz}} repetition rate hollow fiber pulse compression to
+  sub-100-fs duration at 100 {{W}} average power\allowbreak[J/OL].
+\newblock Optics Letters, 2011, 36\allowbreak (23): 4605.
+\newblock DOI: \doi{10.1364/OL.36.004605}.
+
+\bibitem[H{\"a}drich et~al.(2013)H{\"a}drich, Klenke, Hoffmann, Eidam,
+  Gottschall, Rothhardt, Limpert, and
+  T{\"u}nnermann]{hadrichNonlinearCompressionSub30fs2013}
+H{\"A}DRICH S, KLENKE A, HOFFMANN A, et~al.
+\newblock Nonlinear compression to sub-30-fs, 05 {{mJ}} pulses at 135 {{W}} of
+  average power\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (19): 3866.
+\newblock DOI: \doi{10.1364/OL.38.003866}.
+
+\bibitem[Rothhardt et~al.(2014)Rothhardt, H{\"a}drich, Klenke, Demmler,
+  Hoffmann, Gotschall, Eidam, Krebs, Limpert, and
+  T{\"u}nnermann]{rothhardt53AveragePower2014}
+ROTHHARDT J, H{\"A}DRICH S, KLENKE A, et~al.
+\newblock 53 {{W}} average power few-cycle fiber laser system generating soft x
+  rays up to the water window\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (17): 5224.
+\newblock DOI: \doi{10.1364/OL.39.005224}.
+
+\bibitem[H{\"a}drich et~al.(2016)H{\"a}drich, Kienel, M{\"u}ller, Klenke,
+  Rothhardt, Klas, Gottschall, Eidam, Drozdy, J{\'o}j{\'a}rt, V{\'a}rallyay,
+  Cormier, Osvay, T{\"u}nnermann, and
+  Limpert]{hadrichEnergeticSub2cycleLaser2016}
+H{\"A}DRICH S, KIENEL M, M{\"U}LLER M, et~al.
+\newblock Energetic sub-2-cycle laser with 216 {{W}} average
+  power\allowbreak[J/OL].
+\newblock Optics Letters, 2016, 41\allowbreak (18): 4332.
+\newblock DOI: \doi{10.1364/OL.41.004332}.
+
+\bibitem[Gigu{\`e}re et~al.(2009)Gigu{\`e}re, Schmidt, Shiner, Houle, Bandulet,
+  Tempea, Villeneuve, Kieffer, and
+  L{\'e}gar{\'e}]{giguerePulseCompressionSubmillijoule2009}
+GIGU{\`E}RE M, SCHMIDT B~E, SHINER A~D, et~al.
+\newblock Pulse compression of submillijoule few-optical-cycle infrared laser
+  pulses using chirped mirrors\allowbreak[J/OL].
+\newblock Optics Letters, 2009, 34\allowbreak (12): 1894.
+\newblock DOI: \doi{10.1364/OL.34.001894}.
+
+\bibitem[Schmidt et~al.(2010)Schmidt, B{\'e}jot, Gigu{\`e}re, Shiner,
+  {Trallero-Herrero}, Bisson, Kasparian, Wolf, Villeneuve, Kieffer, Corkum, and
+  L{\'e}gar{\'e}]{schmidtCompressionMmLaser2010}
+SCHMIDT B~E, B{\'E}JOT P, GIGU{\`E}RE M, et~al.
+\newblock Compression of 1.8 {$M$}m laser pulses to sub two optical cycles with
+  bulk material\allowbreak[J/OL].
+\newblock Applied Physics Letters, 2010, 96\allowbreak (12): 121109.
+\newblock DOI: \doi{10.1063/1.3359458}.
+
+\bibitem[Schmidt et~al.(2011)Schmidt, Shiner, Lassonde, Kieffer, Corkum,
+  Villeneuve, and L{\'e}gar{\'e}]{schmidtCEPStable162011}
+SCHMIDT B~E, SHINER A~D, LASSONDE P, et~al.
+\newblock {{CEP}} stable 16 cycle laser pulses at 18 {$M$}m\allowbreak[J/OL].
+\newblock Optics Express, 2011, 19\allowbreak (7): 6858.
+\newblock DOI: \doi{10.1364/OE.19.006858}.
+
+\bibitem[Gebhardt et~al.(2017)Gebhardt, Gaida, Stutzki, H{\"a}drich, Jauregui,
+  Limpert, and T{\"u}nnermann]{gebhardtHighAveragePower2017}
+GEBHARDT M, GAIDA C, STUTZKI F, et~al.
+\newblock High average power nonlinear compression to 4 {{GW}}, sub-50 fs
+  pulses at 2 {$M$}m wavelength\allowbreak[J/OL].
+\newblock Optics Letters, 2017, 42\allowbreak (4): 747.
+\newblock DOI: \doi{10.1364/OL.42.000747}.
+
+\bibitem[Durfee et~al.(1999)Durfee, Backus, Kapteyn, and
+  Murnane]{durfeeIntense8fsPulse1999}
+DURFEE C~G, BACKUS S, KAPTEYN H~C, et~al.
+\newblock Intense 8-fs pulse generation in the deep
+  ultraviolet\allowbreak[J/OL].
+\newblock Optics Letters, 1999, 24\allowbreak (10): 697.
+\newblock DOI: \doi{10.1364/OL.24.000697}.
+
+\bibitem[Nisoli et~al.(March-April)Nisoli, Stagira, De~Silvestri, Svelto,
+  Sartania, Cheng, Tempea, Spielmann, and
+  Krausz]{nisoliTerawattscaleSub10fsLaser1998}
+NISOLI M, STAGIRA S, DE~SILVESTRI S, et~al.
+\newblock Toward a terawatt-scale sub-10-fs laser technology\allowbreak[J/OL].
+\newblock IEEE Journal of Selected Topics in Quantum Electronics, March-April,
+  4\allowbreak (2): 414-420.
+\newblock DOI: \doi{10.1109/2944.686749}.
+
+\bibitem[Nagy et~al.(2021)Nagy, Simon, and
+  Veisz]{nagyHighenergyFewcyclePulses2021}
+NAGY T, SIMON P, VEISZ L.
+\newblock High-energy few-cycle pulses: Post-compression
+  techniques\allowbreak[J/OL].
+\newblock Advances in Physics: X, 2021, 6\allowbreak (1): 1845795.
+\newblock DOI: \doi{10.1080/23746149.2020.1845795}.
+
+\bibitem[Nagy et~al.(2008)Nagy, Forster, and
+  Simon]{nagyFlexibleHollowFiber2008}
+NAGY T, FORSTER M, SIMON P.
+\newblock Flexible hollow fiber for pulse compressors\allowbreak[J/OL].
+\newblock Applied Optics, 2008, 47\allowbreak (18): 3264.
+\newblock DOI: \doi{10.1364/AO.47.003264}.
+
+\bibitem[Suda et~al.(2005)Suda, Hatayama, Nagasaka, and
+  Midorikawa]{sudaGenerationSub10fs5mJoptical2005}
+SUDA A, HATAYAMA M, NAGASAKA K, et~al.
+\newblock Generation of sub-10-fs, 5-{{mJ-optical}} pulses using a hollow fiber
+  with a pressure gradient\allowbreak[J/OL].
+\newblock Applied Physics Letters, 2005, 86\allowbreak (11): 111116.
+\newblock DOI: \doi{10.1063/1.1883706}.
+
+\bibitem[Nagy et~al.(2011)Nagy, Pervak, and
+  Simon]{nagyOptimalPulseCompression2011}
+NAGY T, PERVAK V, SIMON P.
+\newblock Optimal pulse compression in long hollow fibers\allowbreak[J/OL].
+\newblock Optics Letters, 2011, 36\allowbreak (22): 4422.
+\newblock DOI: \doi{10.1364/OL.36.004422}.
+
+\bibitem[Oishi et~al.(2005)Oishi, Suda, Midorikawa, and
+  Kannari]{oishiSub10FsMultimillijoule2005}
+OISHI Y, SUDA A, MIDORIKAWA K, et~al.
+\newblock Sub-10 fs, multimillijoule laser system\allowbreak[J/OL].
+\newblock Review of Scientific Instruments, 2005, 76\allowbreak (9): 093114.
+\newblock DOI: \doi{10.1063/1.2052587}.
+
+\bibitem[Bohman et~al.(2008)Bohman, Suda, Kaku, Nurhuda, Kanai, Yamaguchi, and
+  Midorikawa]{bohmanGenerationFsTW2008}
+BOHMAN S, SUDA A, KAKU M, et~al.
+\newblock Generation of 5 fs, 0.5 {{TW}} pulses focusable to relativistic
+  intensities at 1 {{kHz}}\allowbreak[J/OL].
+\newblock Optics Express, 2008, 16\allowbreak (14): 10684.
+\newblock DOI: \doi{10.1364/OE.16.010684}.
+
+\bibitem[Okell et~al.(2013)Okell, Witting, Fabris, Austin, Bocoum, Frank,
+  Ricci, Jullien, Walke, Marangos, {Lopez-Martens}, and
+  Tisch]{okellCarrierenvelopePhaseStability2013}
+OKELL W~A, WITTING T, FABRIS D, et~al.
+\newblock Carrier-envelope phase stability of hollow fibers used for
+  high-energy few-cycle pulse generation\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (19): 3918.
+\newblock DOI: \doi{10.1364/OL.38.003918}.
+
+\bibitem[L{\"u}cking et~al.(2014)L{\"u}cking, Trabattoni, Anumula, Sansone,
+  Calegari, Nisoli, Oksenhendler, and
+  Tempea]{luckingSituMeasurementNonlinear2014}
+L{\"U}CKING F, TRABATTONI A, ANUMULA S, et~al.
+\newblock In situ measurement of nonlinear carrier-envelope phase changes in
+  hollow fiber compression\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (8): 2302.
+\newblock DOI: \doi{10.1364/OL.39.002302}.
+
+\bibitem[Robinson et~al.(2006)Robinson, Haworth, Teng, Smith, Marangos, and
+  Tisch]{robinsonGenerationIntenseTransformlimited2006}
+ROBINSON J, HAWORTH C, TENG H, et~al.
+\newblock The generation of intense, transform-limited laser pulses with
+  tunable duration from 6 to 30 fs in a differentially pumped hollow
+  fibre\allowbreak[J/OL].
+\newblock Applied Physics B, 2006, 85\allowbreak (4): 525-529.
+\newblock DOI: \doi{10.1007/s00340-006-2390-z}.
+
+\bibitem[Ouill{\'e} et~al.(2020)Ouill{\'e}, Vernier, B{\"o}hle, Bocoum,
+  Jullien, Lozano, Rousseau, Cheng, Gustas, Blumenstein, Simon, Haessler,
+  Faure, Nagy, and
+  {Lopez-Martens}]{ouilleRelativisticintensityNearsinglecycleLight2020}
+OUILL{\'E} M, VERNIER A, B{\"O}HLE F, et~al.
+\newblock Relativistic-intensity near-single-cycle light waveforms at {{kHz}}
+  repetition rate\allowbreak[J/OL].
+\newblock Light: Science \& Applications, 2020, 9\allowbreak (1): 47.
+\newblock DOI: \doi{10.1038/s41377-020-0280-5}.
+
+\bibitem[Nagy et~al.(2020)Nagy, Kretschmar, Vrakking, and
+  Rouz{\'e}e]{nagyGenerationAboveterawatt5cycle2020}
+NAGY T, KRETSCHMAR M, VRAKKING M~J~J, et~al.
+\newblock Generation of above-terawatt 1.5-cycle visible pulses at 1 {{kHz}} by
+  post-compression in a hollow fiber\allowbreak[J/OL].
+\newblock Optics Letters, 2020, 45\allowbreak (12): 3313.
+\newblock DOI: \doi{10.1364/OL.395830}.
+
+\bibitem[Dutin et~al.(2010)Dutin, Dubrouil, Petit, M{\'e}vel, Constant, and
+  Descamps]{dutinPostcompressionHighenergyFemtosecond2010}
+DUTIN C~F, DUBROUIL A, PETIT S, et~al.
+\newblock Post-compression of high-energy femtosecond pulses using gas
+  ionization\allowbreak[J/OL].
+\newblock Optics Letters, 2010, 35\allowbreak (2): 253.
+\newblock DOI: \doi{10.1364/OL.35.000253}.
+
+\bibitem[Auguste et~al.(2012)Auguste, Gobert, Dutin, Dubrouil, M{\'e}vel,
+  Petit, Constant, and
+  Descamps]{augusteApplicationOpticalfieldionizationinducedSpectral2012}
+AUGUSTE T, GOBERT O, DUTIN C~F, et~al.
+\newblock Application of optical-field-ionization-induced spectral broadening
+  in helium gas to the postcompression of high-energy femtosecond laser
+  pulses\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2012, 29\allowbreak (6):
+  1277.
+\newblock DOI: \doi{10.1364/JOSAB.29.001277}.
+
+\bibitem[Auguste et~al.(2013)Auguste, Fourcade~Dutin, Dubrouil, Gobert, Hort,
+  M{\'e}vel, Petit, Constant, and
+  Descamps]{augusteHighenergyFemtosecondLaser2013}
+AUGUSTE T, FOURCADE~DUTIN C, DUBROUIL A, et~al.
+\newblock High-energy femtosecond laser pulse compression in single- and
+  multi-ionization regime of rare gases: Experiment versus
+  theory\allowbreak[J/OL].
+\newblock Applied Physics B, 2013, 111\allowbreak (1): 75-87.
+\newblock DOI: \doi{10.1007/s00340-012-5309-x}.
+
+\bibitem[Hort et~al.(2015)Hort, Dubrouil, Cabasse, Petit, M{\'e}vel, Descamps,
+  and Constant]{hortPostcompressionHighenergyTerawattlevel2015}
+HORT O, DUBROUIL A, CABASSE A, et~al.
+\newblock Postcompression of high-energy terawatt-level femtosecond pulses and
+  application to high-order harmonic generation\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2015, 32\allowbreak (6):
+  1055.
+\newblock DOI: \doi{10.1364/JOSAB.32.001055}.
+
+\bibitem[Nurhuda et~al.(2006)Nurhuda, Suda, Bohman, Yamaguchi, and
+  Midorikawa]{nurhudaOpticalPulseCompression2006}
+NURHUDA M, SUDA A, BOHMAN S, et~al.
+\newblock Optical {{Pulse Compression}} of {{Ultrashort Laser Pulses}} in an
+  {{Argon-Filled Planar Waveguide}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2006, 97\allowbreak (15): 153902.
+\newblock DOI: \doi{10.1103/PhysRevLett.97.153902}.
+
+\bibitem[Chen et~al.(2008)Chen, Suda, Takahashi, Nurhuda, and
+  Midorikawa]{chenCompressionIntenseUltrashort2008}
+CHEN J, SUDA A, TAKAHASHI E~J, et~al.
+\newblock Compression of intense ultrashort laser pulses in a gas-filled planar
+  waveguide\allowbreak[J/OL].
+\newblock Optics Letters, 2008, 33\allowbreak (24): 2992.
+\newblock DOI: \doi{10.1364/OL.33.002992}.
+
+\bibitem[Chen et~al.(2011)Chen, Jarnac, Houard, Liu, Arnold, Zhou, Forestier,
+  Prade, and Mysyrowicz]{chenCompressionHighenergyUltrashort2011}
+CHEN S, JARNAC A, HOUARD A, et~al.
+\newblock Compression of high-energy ultrashort laser pulses through an
+  argon-filled tapered planar waveguide\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2011, 28\allowbreak (5):
+  1009.
+\newblock DOI: \doi{10.1364/JOSAB.28.001009}.
+
+\bibitem[Klenke et~al.(2013)Klenke, Kienel, Eidam, H{\"a}drich, Limpert, and
+  T{\"u}nnermann]{klenkeDividedpulseNonlinearCompression2013}
+KLENKE A, KIENEL M, EIDAM T, et~al.
+\newblock Divided-pulse nonlinear compression\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (22): 4593.
+\newblock DOI: \doi{10.1364/OL.38.004593}.
+
+\bibitem[Guichard et~al.(2013)Guichard, Zaouter, Hanna, Morin, H{\"o}nninger,
+  Mottay, Druon, and Georges]{guichardEnergyScalingNonlinear2013}
+GUICHARD F, ZAOUTER Y, HANNA M, et~al.
+\newblock Energy scaling of a nonlinear compression setup using passive
+  coherent combining\allowbreak[J/OL].
+\newblock Optics Letters, 2013, 38\allowbreak (21): 4437.
+\newblock DOI: \doi{10.1364/OL.38.004437}.
+
+\bibitem[Jacqmin et~al.(2015)Jacqmin, Jullien, Mercier, Hanna, Druon,
+  Papadopoulos, and {Lopez-Martens}]{jacqminPassiveCoherentCombining2015}
+JACQMIN H, JULLIEN A, MERCIER B, et~al.
+\newblock Passive coherent combining of {{CEP-stable}} few-cycle pulses from a
+  temporally divided hollow fiber compressor\allowbreak[J/OL].
+\newblock Optics Letters, 2015, 40\allowbreak (5): 709.
+\newblock DOI: \doi{10.1364/OL.40.000709}.
+
+\bibitem[Jacqmin et~al.(2015)Jacqmin, Jullien, Mercier, and
+  {Lopez-Martens}]{jacqminTemporalPulseDivision2015}
+JACQMIN H, JULLIEN A, MERCIER B, et~al.
+\newblock Temporal pulse division in hollow fiber compressors\allowbreak[J/OL].
+\newblock Journal of the Optical Society of America B, 2015, 32\allowbreak (9):
+  1901.
+\newblock DOI: \doi{10.1364/JOSAB.32.001901}.
+
+\bibitem[Hansch et~al.(1980)Hansch and
+  Couillaud]{hanschLASERFREQUENCYSTABILIZATION1980}
+HANSCH T~W, COUILLAUD B.
+\newblock {{LASER FREQUENCY STABILIZATION BY POLARIZATION SPECTROSCOPY OF A
+  REFLECTING REFERENCE CAVITY}}\allowbreak[J/OL].
+\newblock OPTICS COMMUNICATIONS, 1980, 35\allowbreak (3).
+\newblock DOI: \doi{10.1016/0030-4018(80)90069-3}.
+
+\bibitem[Klenke et~al.(2014)Klenke, H{\"a}drich, Kienel, Eidam, Limpert, and
+  T{\"u}nnermann]{klenkeCoherentCombinationSpectrally2014}
+KLENKE A, H{\"A}DRICH S, KIENEL M, et~al.
+\newblock Coherent combination of spectrally broadened femtosecond pulses for
+  nonlinear compression\allowbreak[J/OL].
+\newblock Optics Letters, 2014, 39\allowbreak (12): 3520.
+\newblock DOI: \doi{10.1364/OL.39.003520}.
+
+\bibitem[Haddad et~al.(2018)Haddad, Safaei, Leblanc, Piccoli, Jeong, Ibrahim,
+  Schmidt, Morandotti, Razzari, L{\'e}gar{\'e}, and
+  Lassonde]{haddadMolecularGasesPulse2018}
+HADDAD E, SAFAEI R, LEBLANC A, et~al.
+\newblock Molecular gases for pulse compression in hollow core
+  fibers\allowbreak[J/OL].
+\newblock Optics Express, 2018, 26\allowbreak (19): 25426.
+\newblock DOI: \doi{10.1364/OE.26.025426}.
+
+\bibitem[Fan et~al.(2020)Fan, Safaei, Kwon, Schuster, L{\'e}gar{\'e}, Lassonde,
+  Ehteshami, Arias, Laram{\'e}e, {Beaudoin-Bertrand}, Limpert, Tao, Spanner,
+  Schmidt, Ibrahim, Baltu{\v s}ka, and
+  L{\'e}gar{\'e}]{fanHighEnergyRedshifted2020}
+FAN G, SAFAEI R, KWON O, et~al.
+\newblock High energy redshifted and enhanced spectral broadening by molecular
+  alignment\allowbreak[J/OL].
+\newblock Optics Letters, 2020, 45\allowbreak (11): 3013.
+\newblock DOI: \doi{10.1364/OL.387037}.
+
+\bibitem[Wagner et~al.(2004)Wagner, Gibson, Popmintchev, Christov, Murnane, and
+  Kapteyn]{wagnerSelfCompressionUltrashortPulses2004}
+WAGNER N~L, GIBSON E~A, POPMINTCHEV T, et~al.
+\newblock Self-{{Compression}} of {{Ultrashort Pulses}} through
+  {{Ionization-Induced Spatiotemporal Reshaping}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2004, 93\allowbreak (17): 173902.
+\newblock DOI: \doi{10.1103/PhysRevLett.93.173902}.
+
+\bibitem[Trushin et~al.(2007)Trushin, Kosma, Fu{\ss}, and
+  Schmid]{trushinSub10fsSupercontinuumRadiation2007}
+TRUSHIN S~A, KOSMA K, FU{SS} W, et~al.
+\newblock Sub-10-fs supercontinuum radiation generated by filamentation of
+  few-cycle 800 nm pulses in argon\allowbreak[J/OL].
+\newblock Optics Letters, 2007, 32\allowbreak (16): 2432.
+\newblock DOI: \doi{10.1364/OL.32.002432}.
+
+\bibitem[Schulz et~al.(2011)Schulz, Steingrube, Binhammer, Gaarde, Couairon,
+  Morgner, and Kova{\v c}ev]{schulzTrackingSpectralShapes2011}
+SCHULZ E, STEINGRUBE D~S, BINHAMMER T, et~al.
+\newblock Tracking spectral shapes and temporal dynamics along a femtosecond
+  filament\allowbreak[J/OL].
+\newblock Optics Express, 2011, 19\allowbreak (20): 19495.
+\newblock DOI: \doi{10.1364/OE.19.019495}.
+
+\bibitem[Kretschmar et~al.(2014)Kretschmar, Br{\'e}e, Nagy, Demircan, Kurz,
+  Morgner, and Kova{\v c}ev]{kretschmarDirectObservationPulse2014}
+KRETSCHMAR M, BR{\'E}E C, NAGY T, et~al.
+\newblock Direct observation of pulse dynamics and self-compression along a
+  femtosecond filament\allowbreak[J/OL].
+\newblock Optics Express, 2014, 22\allowbreak (19): 22905.
+\newblock DOI: \doi{10.1364/OE.22.022905}.
+
+\bibitem[Jargot et~al.(2018)Jargot, Daher, Lavenu, Delen, Forget, Hanna, and
+  Georges]{jargotSelfcompressionMultipassCell2018}
+JARGOT G, DAHER N, LAVENU L, et~al.
+\newblock Self-compression in a multipass cell\allowbreak[J/OL].
+\newblock Optics Letters, 2018, 43\allowbreak (22): 5643.
+\newblock DOI: \doi{10.1364/OL.43.005643}.
+
+\bibitem[Shumakova et~al.(2016)Shumakova, Malevich, Ali{\v s}auskas, Voronin,
+  Zheltikov, Faccio, Kartashov, Baltu{\v s}ka, and Pug{\v
+  z}lys]{shumakovaMultimillijouleFewcycleMidinfrared2016}
+SHUMAKOVA V, MALEVICH P, ALI{\v S}AUSKAS S, et~al.
+\newblock Multi-millijoule few-cycle mid-infrared pulses through nonlinear
+  self-compression in bulk\allowbreak[J/OL].
+\newblock Nature Communications, 2016, 7\allowbreak (1): 12877.
+\newblock DOI: \doi{10.1038/ncomms12877}.
+
+\bibitem[Shumakova et~al.(2019)Shumakova, Ali{\v s}auskas, Malevich, Voronin,
+  Mitrofanov, {Sidorov-Biryukov}, Zheltikov, Kartashov, Baltu{\v s}ka, and
+  Pug{\v z}lys]{shumakovaChirpcontrolledFilamentationFormation2019}
+SHUMAKOVA V, ALI{\v S}AUSKAS S, MALEVICH P, et~al.
+\newblock Chirp-controlled filamentation and formation of light bullets in the
+  mid-{{IR}}\allowbreak[J/OL].
+\newblock Optics Letters, 2019, 44\allowbreak (9): 2173.
+\newblock DOI: \doi{10.1364/OL.44.002173}.
+
+\bibitem[Im et~al.(2009)Im, Husakou, and
+  Herrmann]{imGuidingPropertiesDispersion2009}
+IM S~J, HUSAKOU A, HERRMANN J.
+\newblock Guiding properties and dispersion control of kagome lattice
+  hollow-core photonic crystal fibers\allowbreak[J/OL].
+\newblock Optics Express, 2009, 17\allowbreak (15): 13050.
+\newblock DOI: \doi{10.1364/OE.17.013050}.
+
+\bibitem[Im et~al.(2010)Im, Husakou, and
+  Herrmann]{imHighpowerSolitoninducedSupercontinuum2010}
+IM S~J, HUSAKOU A, HERRMANN J.
+\newblock High-power soliton-induced supercontinuum generation and tunable
+  sub-10-fs {{VUV}} pulses from kagome-lattice {{HC-PCFs}}\allowbreak[J/OL].
+\newblock Optics Express, 2010, 18\allowbreak (6): 5367.
+\newblock DOI: \doi{10.1364/OE.18.005367}.
+
+\bibitem[Joly et~al.(2011)Joly, Nold, Chang, H{\"o}lzer, Nazarkin, Wong,
+  Biancalana, and Russell]{jolyBrightSpatiallyCoherent2011}
+JOLY N~Y, NOLD J, CHANG W, et~al.
+\newblock Bright {{Spatially Coherent Wavelength-Tunable Deep-UV Laser Source
+  Using}} an {{Ar-Filled Photonic Crystal Fiber}}\allowbreak[J/OL].
+\newblock Physical Review Letters, 2011, 106\allowbreak (20): 203901.
+\newblock DOI: \doi{10.1103/PhysRevLett.106.203901}.
+
+\bibitem[Ermolov et~al.(2015)Ermolov, Mak, Frosz, Travers, and
+  Russell]{ermolovSupercontinuumGenerationVacuum2015}
+ERMOLOV A, MAK K~F, FROSZ M~H, et~al.
+\newblock Supercontinuum generation in the vacuum ultraviolet through
+  dispersive-wave and soliton-plasma interaction in a noble-gas-filled
+  hollow-core photonic crystal fiber\allowbreak[J/OL].
+\newblock Physical Review A, 2015, 92\allowbreak (3): 033821.
+\newblock DOI: \doi{10.1103/PhysRevA.92.033821}.
+
+\bibitem[Belli et~al.(2015)Belli, Abdolvand, Chang, Travers, and
+  Russell]{belliVacuumultravioletInfraredSupercontinuum2015}
+BELLI F, ABDOLVAND A, CHANG W, et~al.
+\newblock Vacuum-ultraviolet to infrared supercontinuum in hydrogen-filled
+  photonic crystal fiber\allowbreak[J/OL].
+\newblock Optica, 2015, 2\allowbreak (4): 292.
+\newblock DOI: \doi{10.1364/OPTICA.2.000292}.
+
+\bibitem[Ermolov et~al.(2019)Ermolov, Heide, Dienstbier, K{\"o}ttig, Tani,
+  Hommelhoff, and
+  Russell]{ermolovCarrierenvelopephasestableSolitonbasedPulse2019}
+ERMOLOV A, HEIDE C, DIENSTBIER P, et~al.
+\newblock Carrier-envelope-phase-stable soliton-based pulse compression to 44
+  fs and ultraviolet generation at the 800 {{kHz}} repetition
+  rate\allowbreak[J/OL].
+\newblock Optics Letters, 2019, 44\allowbreak (20): 5005.
+\newblock DOI: \doi{10.1364/OL.44.005005}.
+
+\bibitem[Balciunas et~al.(2015)Balciunas, {Fourcade-Dutin}, Fan, Witting,
+  Voronin, Zheltikov, Gerome, Paulus, Baltuska, and
+  Benabid]{balciunasStrongfieldDriverSinglecycle2015}
+BALCIUNAS T, {Fourcade-Dutin} C, FAN G, et~al.
+\newblock A strong-field driver in the single-cycle regime based on
+  self-compression in a kagome fibre\allowbreak[J/OL].
+\newblock Nature Communications, 2015, 6\allowbreak (1): 6117.
+\newblock DOI: \doi{10.1038/ncomms7117}.
+
+\bibitem[Elu et~al.(2017)Elu, Baudisch, Pires, Tani, Frosz, K{\"o}ttig,
+  Ermolov, St.J.~Russell, and Biegert]{eluHighAveragePower2017}
+ELU U, BAUDISCH M, PIRES H, et~al.
+\newblock High average power and single-cycle pulses from a mid-{{IR}} optical
+  parametric chirped pulse amplifier\allowbreak[J/OL].
+\newblock Optica, 2017, 4\allowbreak (9): 1024.
+\newblock DOI: \doi{10.1364/OPTICA.4.001024}.
+
+\bibitem[Russell et~al.(2014)Russell, H{\"o}lzer, Chang, Abdolvand, and
+  Travers]{russellHollowcorePhotonicCrystal2014}
+RUSSELL P~{\relax ST}~J, H{\"O}LZER P, CHANG W, et~al.
+\newblock Hollow-core photonic crystal fibres for gas-based nonlinear
+  optics\allowbreak[J/OL].
+\newblock Nature Photonics, 2014, 8\allowbreak (4): 278-286.
+\newblock DOI: \doi{10.1038/nphoton.2013.312}.
+
+\bibitem[Travers et~al.(2019)Travers, Grigorova, Brahms, and
+  Belli]{traversHighenergyPulseSelfcompression2019}
+TRAVERS J~C, GRIGOROVA T~F, BRAHMS C, et~al.
+\newblock High-energy pulse self-compression and ultraviolet generation through
+  soliton dynamics in hollow capillary fibres\allowbreak[J/OL].
+\newblock Nature Photonics, 2019, 13\allowbreak (8): 547-554.
+\newblock DOI: \doi{10.1038/s41566-019-0416-4}.
+
+\bibitem[Brahms et~al.(2020)Brahms, Belli, and
+  Travers]{brahmsResonantDispersiveWave2020}
+BRAHMS C, BELLI F, TRAVERS J~C.
+\newblock Resonant dispersive wave emission in hollow capillary fibers filled
+  with pressure gradients\allowbreak[J/OL].
+\newblock Optics Letters, 2020, 45\allowbreak (16): 4456.
+\newblock DOI: \doi{10.1364/OL.398343}.
+
+\end{thebibliography}

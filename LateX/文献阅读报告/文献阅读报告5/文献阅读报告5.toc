@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}超快光学在材料加工领域需求}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}产生更短脉冲方法: 非线性脉冲压缩}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}作者工作的总结与意义}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Set up}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}MPC}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Input}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Mode Match}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Result}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}总体输出结果}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}光束质量变化的讨论}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}输出光谱表征}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}分析两种透镜效应对展宽的影响}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}后压缩与脉冲时域表征}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}总结}{6}{section.4}%
+\contentsline {section}{参考文献}{7}{section*.2}%
